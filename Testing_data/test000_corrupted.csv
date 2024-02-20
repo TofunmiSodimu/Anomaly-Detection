@@ -1,0 +1,2546 @@
+Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
+982.1249999999987,1023,book,1,bathroom,inf,,Set Dinner Table
+982.1249999999987,1144,milk,162,bedroom,inf,,Set Dinner Table
+1046.588235294115,1122,hairdryer,41,dining_room,inf,,Wash Dishes
+1046.588235294115,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Wash Dishes
+1046.588235294115,1174,razor,1,bathroom,17,bathroom_cabinet,Wash Dishes
+1046.588235294115,1026,bowl,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1193,spoon,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1167,plate,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1137,knife,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1172,radio,41,dining_room,41,dining_room,Wash Dishes
+1046.588235294115,1056,cookingpot,41,dining_room,120,sink,Wash Dishes
+1046.588235294115,1117,fryingpan,41,dining_room,120,sink,Wash Dishes
+1046.588235294115,99,trashcan,41,dining_room,inf,,Wash Dishes
+1046.588235294115,102,mat,41,dining_room,inf,,Wash Dishes
+1046.588235294115,130,coffe_maker,41,dining_room,122,kitchen_counter,Wash Dishes
+1046.588235294115,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Wash Dishes
+1046.588235294115,1023,book,162,bedroom,196,bookshelf,Wash Dishes
+1046.588235294115,1030,cd,241,home_office,273,tvstand,Wash Dishes
+1046.588235294115,1031,cd_player,241,home_office,273,tvstand,Wash Dishes
+1046.588235294115,1034,chessboard,241,home_office,275,bookshelf,Wash Dishes
+1046.588235294115,1048,coffee,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1049,coffee_cup,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1050,coffee_filter,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1058,cup,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1059,cutting_board,41,dining_room,123,kitchen_counter,Wash Dishes
+1046.588235294115,1060,deck_of_cards,241,home_office,275,bookshelf,Wash Dishes
+1046.588235294115,1070,dry_pasta,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1083,food_bread,41,dining_room,119,kitchen_counter,Wash Dishes
+1046.588235294115,1087,food_cereal,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1088,food_cheese,41,dining_room,1006,fridge,Wash Dishes
+1046.588235294115,1089,food_chicken,41,dining_room,1006,fridge,Wash Dishes
+1046.588235294115,1091,food_donut,41,dining_room,123,kitchen_counter,Wash Dishes
+1046.588235294115,1098,food_jam,41,dining_room,1006,fridge,Wash Dishes
+1046.588235294115,1102,food_oatmeal,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1106,food_peanut_butter,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1109,food_rice,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1115,food_vegetable,41,dining_room,1006,fridge,Wash Dishes
+1046.588235294115,1116,fork,41,dining_room,120,sink,Wash Dishes
+1046.588235294115,1120,ground_coffee,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Wash Dishes
+1046.588235294115,1123,headset,241,home_office,200,filing_cabinet,Wash Dishes
+1046.588235294115,1126,instrument_guitar,241,home_office,241,home_office,Wash Dishes
+1046.588235294115,1132,juice,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1144,milk,41,dining_room,1006,fridge,Wash Dishes
+1046.588235294115,1148,mug,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1154,notebook,241,home_office,200,filing_cabinet,Wash Dishes
+1046.588235294115,1156,oil,41,dining_room,119,kitchen_counter,Wash Dishes
+1046.588235294115,1162,pen,241,home_office,200,filing_cabinet,Wash Dishes
+1046.588235294115,1176,remote_control,241,home_office,273,tvstand,Wash Dishes
+1046.588235294115,1196,tea,41,dining_room,117,cupboard,Wash Dishes
+1046.588235294115,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Wash Dishes
+1046.588235294115,1207,trashbag,41,dining_room,99,trashcan,Wash Dishes
+1046.588235294115,1215,wine,41,dining_room,114,table,Wash Dishes
+1046.588235294115,1216,wine_glass,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Wash Dishes
+1052.9411764705853,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Wash Dishes
+1052.9411764705853,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Wash Dishes
+1052.9411764705853,1174,razor,1,bathroom,17,bathroom_cabinet,Wash Dishes
+1052.9411764705853,1026,bowl,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1193,spoon,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1167,plate,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1137,knife,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1172,radio,41,dining_room,41,dining_room,Wash Dishes
+1052.9411764705853,1056,cookingpot,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1117,fryingpan,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,99,trashcan,41,dining_room,inf,,Wash Dishes
+1052.9411764705853,102,mat,41,dining_room,inf,,Wash Dishes
+1052.9411764705853,130,coffe_maker,41,dining_room,122,kitchen_counter,Wash Dishes
+1052.9411764705853,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Wash Dishes
+1052.9411764705853,1023,book,162,bedroom,196,bookshelf,Wash Dishes
+1052.9411764705853,1030,cd,241,home_office,273,tvstand,Wash Dishes
+1052.9411764705853,1031,cd_player,241,home_office,273,tvstand,Wash Dishes
+1052.9411764705853,1034,chessboard,241,home_office,275,bookshelf,Wash Dishes
+1052.9411764705853,1048,coffee,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1049,coffee_cup,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1050,coffee_filter,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1058,cup,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1059,cutting_board,41,dining_room,123,kitchen_counter,Wash Dishes
+1052.9411764705853,1060,deck_of_cards,241,home_office,275,bookshelf,Wash Dishes
+1052.9411764705853,1070,dry_pasta,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1083,food_bread,41,dining_room,119,kitchen_counter,Wash Dishes
+1052.9411764705853,1087,food_cereal,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1088,food_cheese,41,dining_room,1006,fridge,Wash Dishes
+1052.9411764705853,1089,food_chicken,41,dining_room,1006,fridge,Wash Dishes
+1052.9411764705853,1091,food_donut,41,dining_room,123,kitchen_counter,Wash Dishes
+1052.9411764705853,1098,food_jam,41,dining_room,1006,fridge,Wash Dishes
+1052.9411764705853,1102,food_oatmeal,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1106,food_peanut_butter,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1109,food_rice,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1115,food_vegetable,41,dining_room,1006,fridge,Wash Dishes
+1052.9411764705853,1116,fork,41,dining_room,120,sink,Wash Dishes
+1052.9411764705853,1120,ground_coffee,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Wash Dishes
+1052.9411764705853,1123,headset,241,home_office,200,filing_cabinet,Wash Dishes
+1052.9411764705853,1126,instrument_guitar,241,home_office,241,home_office,Wash Dishes
+1052.9411764705853,1132,juice,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1144,milk,41,dining_room,1006,fridge,Wash Dishes
+1052.9411764705853,1148,mug,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1154,notebook,241,home_office,200,filing_cabinet,Wash Dishes
+1052.9411764705853,1156,oil,41,dining_room,119,kitchen_counter,Wash Dishes
+1052.9411764705853,1162,pen,241,home_office,200,filing_cabinet,Wash Dishes
+1052.9411764705853,1176,remote_control,241,home_office,273,tvstand,Wash Dishes
+1052.9411764705853,1196,tea,41,dining_room,117,cupboard,Wash Dishes
+1052.9411764705853,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Wash Dishes
+1052.9411764705853,1207,trashbag,41,dining_room,99,trashcan,Wash Dishes
+1052.9411764705853,1215,wine,41,dining_room,114,table,Wash Dishes
+1052.9411764705853,1216,wine_glass,41,dining_room,117,cupboard,Wash Dishes
+1053.999999999997,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Get Book
+1053.999999999997,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Get Book
+1053.999999999997,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Get Book
+1053.999999999997,1174,razor,1,bathroom,17,bathroom_cabinet,Get Book
+1053.999999999997,1026,bowl,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1193,spoon,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1167,plate,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1137,knife,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1172,radio,41,dining_room,41,dining_room,Get Book
+1053.999999999997,1056,cookingpot,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1117,fryingpan,41,dining_room,117,cupboard,Get Book
+1053.999999999997,99,trashcan,41,dining_room,inf,,Get Book
+1053.999999999997,102,mat,41,dining_room,inf,,Get Book
+1053.999999999997,130,coffe_maker,41,dining_room,122,kitchen_counter,Get Book
+1053.999999999997,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Get Book
+1053.999999999997,1023,book,162,bedroom,196,bookshelf,Get Book
+1053.999999999997,1030,cd,241,home_office,273,tvstand,Get Book
+1053.999999999997,1031,cd_player,241,home_office,273,tvstand,Get Book
+1053.999999999997,1034,chessboard,241,home_office,275,bookshelf,Get Book
+1053.999999999997,1048,coffee,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1049,coffee_cup,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1050,coffee_filter,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1058,cup,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1059,cutting_board,41,dining_room,123,kitchen_counter,Get Book
+1053.999999999997,1060,deck_of_cards,241,home_office,275,bookshelf,Get Book
+1053.999999999997,1070,dry_pasta,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1083,food_bread,41,dining_room,119,kitchen_counter,Get Book
+1053.999999999997,1087,food_cereal,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1088,food_cheese,41,dining_room,1006,fridge,Get Book
+1053.999999999997,1089,food_chicken,41,dining_room,1006,fridge,Get Book
+1053.999999999997,1091,food_donut,41,dining_room,123,kitchen_counter,Get Book
+1053.999999999997,1098,food_jam,41,dining_room,1006,fridge,Get Book
+1053.999999999997,1102,food_oatmeal,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1106,food_peanut_butter,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1109,food_rice,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1115,food_vegetable,41,dining_room,1006,fridge,Get Book
+1053.999999999997,1116,fork,41,dining_room,120,sink,Get Book
+1053.999999999997,1120,ground_coffee,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Get Book
+1053.999999999997,1123,headset,241,home_office,200,filing_cabinet,Get Book
+1053.999999999997,1126,instrument_guitar,241,home_office,241,home_office,Get Book
+1053.999999999997,1132,juice,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1144,milk,41,dining_room,1006,fridge,Get Book
+1053.999999999997,1148,mug,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1154,notebook,241,home_office,200,filing_cabinet,Get Book
+1053.999999999997,1156,oil,41,dining_room,119,kitchen_counter,Get Book
+1053.999999999997,1162,pen,241,home_office,200,filing_cabinet,Get Book
+1053.999999999997,1176,remote_control,241,home_office,273,tvstand,Get Book
+1053.999999999997,1196,tea,41,dining_room,117,cupboard,Get Book
+1053.999999999997,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Get Book
+1053.999999999997,1207,trashbag,41,dining_room,99,trashcan,Get Book
+1053.999999999997,1215,wine,41,dining_room,114,table,Get Book
+1053.999999999997,1216,wine_glass,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Get Book
+1054.4999999999973,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Get Book
+1054.4999999999973,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Get Book
+1054.4999999999973,1174,razor,1,bathroom,17,bathroom_cabinet,Get Book
+1054.4999999999973,1026,bowl,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1193,spoon,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1167,plate,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1137,knife,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1172,radio,41,dining_room,41,dining_room,Get Book
+1054.4999999999973,1056,cookingpot,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1117,fryingpan,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,99,trashcan,41,dining_room,inf,,Get Book
+1054.4999999999973,102,mat,41,dining_room,inf,,Get Book
+1054.4999999999973,130,coffe_maker,41,dining_room,122,kitchen_counter,Get Book
+1054.4999999999973,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Get Book
+1054.4999999999973,1023,book,162,bedroom,196,bookshelf,Get Book
+1054.4999999999973,1030,cd,241,home_office,273,tvstand,Get Book
+1054.4999999999973,1031,cd_player,241,home_office,273,tvstand,Get Book
+1054.4999999999973,1034,chessboard,241,home_office,275,bookshelf,Get Book
+1054.4999999999973,1048,coffee,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1049,coffee_cup,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1050,coffee_filter,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1058,cup,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1059,cutting_board,41,dining_room,123,kitchen_counter,Get Book
+1054.4999999999973,1060,deck_of_cards,241,home_office,275,bookshelf,Get Book
+1054.4999999999973,1070,dry_pasta,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1083,food_bread,41,dining_room,119,kitchen_counter,Get Book
+1054.4999999999973,1087,food_cereal,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1088,food_cheese,41,dining_room,1006,fridge,Get Book
+1054.4999999999973,1089,food_chicken,41,dining_room,1006,fridge,Get Book
+1054.4999999999973,1091,food_donut,41,dining_room,123,kitchen_counter,Get Book
+1054.4999999999973,1098,food_jam,41,dining_room,1006,fridge,Get Book
+1054.4999999999973,1102,food_oatmeal,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1106,food_peanut_butter,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1109,food_rice,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1115,food_vegetable,41,dining_room,1006,fridge,Get Book
+1054.4999999999973,1116,fork,41,dining_room,120,sink,Get Book
+1054.4999999999973,1120,ground_coffee,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Get Book
+1054.4999999999973,1123,headset,241,home_office,200,filing_cabinet,Get Book
+1054.4999999999973,1126,instrument_guitar,241,home_office,241,home_office,Get Book
+1054.4999999999973,1132,juice,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1144,milk,41,dining_room,1006,fridge,Get Book
+1054.4999999999973,1148,mug,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1154,notebook,241,home_office,200,filing_cabinet,Get Book
+1054.4999999999973,1156,oil,41,dining_room,119,kitchen_counter,Get Book
+1054.4999999999973,1162,pen,241,home_office,200,filing_cabinet,Get Book
+1054.4999999999973,1176,remote_control,241,home_office,273,tvstand,Get Book
+1054.4999999999973,1196,tea,41,dining_room,117,cupboard,Get Book
+1054.4999999999973,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Get Book
+1054.4999999999973,1207,trashbag,41,dining_room,99,trashcan,Get Book
+1054.4999999999973,1215,wine,41,dining_room,114,table,Get Book
+1054.4999999999973,1216,wine_glass,41,dining_room,117,cupboard,Get Book
+1054.9999999999975,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Read
+1054.9999999999975,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Read
+1054.9999999999975,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Read
+1054.9999999999975,1174,razor,1,bathroom,17,bathroom_cabinet,Read
+1054.9999999999975,1026,bowl,41,dining_room,117,cupboard,Read
+1054.9999999999975,1193,spoon,41,dining_room,117,cupboard,Read
+1054.9999999999975,1167,plate,41,dining_room,117,cupboard,Read
+1054.9999999999975,1137,knife,41,dining_room,117,cupboard,Read
+1054.9999999999975,1172,radio,41,dining_room,41,dining_room,Read
+1054.9999999999975,1056,cookingpot,41,dining_room,117,cupboard,Read
+1054.9999999999975,1117,fryingpan,41,dining_room,117,cupboard,Read
+1054.9999999999975,99,trashcan,41,dining_room,inf,,Read
+1054.9999999999975,102,mat,41,dining_room,inf,,Read
+1054.9999999999975,130,coffe_maker,41,dining_room,122,kitchen_counter,Read
+1054.9999999999975,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Read
+1054.9999999999975,1023,book,162,bedroom,198,sofa,Read
+1054.9999999999975,1030,cd,241,home_office,273,tvstand,Read
+1054.9999999999975,1031,cd_player,241,home_office,273,tvstand,Read
+1054.9999999999975,1034,chessboard,241,home_office,275,bookshelf,Read
+1054.9999999999975,1048,coffee,41,dining_room,117,cupboard,Read
+1054.9999999999975,1049,coffee_cup,41,dining_room,117,cupboard,Read
+1054.9999999999975,1050,coffee_filter,41,dining_room,117,cupboard,Read
+1054.9999999999975,1058,cup,41,dining_room,117,cupboard,Read
+1054.9999999999975,1059,cutting_board,41,dining_room,123,kitchen_counter,Read
+1054.9999999999975,1060,deck_of_cards,241,home_office,275,bookshelf,Read
+1054.9999999999975,1070,dry_pasta,41,dining_room,117,cupboard,Read
+1054.9999999999975,1083,food_bread,41,dining_room,119,kitchen_counter,Read
+1054.9999999999975,1087,food_cereal,41,dining_room,117,cupboard,Read
+1054.9999999999975,1088,food_cheese,41,dining_room,1006,fridge,Read
+1054.9999999999975,1089,food_chicken,41,dining_room,1006,fridge,Read
+1054.9999999999975,1091,food_donut,41,dining_room,123,kitchen_counter,Read
+1054.9999999999975,1098,food_jam,41,dining_room,1006,fridge,Read
+1054.9999999999975,1102,food_oatmeal,41,dining_room,117,cupboard,Read
+1054.9999999999975,1106,food_peanut_butter,41,dining_room,117,cupboard,Read
+1054.9999999999975,1109,food_rice,41,dining_room,117,cupboard,Read
+1054.9999999999975,1115,food_vegetable,41,dining_room,1006,fridge,Read
+1054.9999999999975,1116,fork,41,dining_room,120,sink,Read
+1054.9999999999975,1120,ground_coffee,41,dining_room,117,cupboard,Read
+1054.9999999999975,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Read
+1054.9999999999975,1123,headset,241,home_office,200,filing_cabinet,Read
+1054.9999999999975,1126,instrument_guitar,241,home_office,241,home_office,Read
+1054.9999999999975,1132,juice,41,dining_room,117,cupboard,Read
+1054.9999999999975,1144,milk,41,dining_room,1006,fridge,Read
+1054.9999999999975,1148,mug,41,dining_room,117,cupboard,Read
+1054.9999999999975,1154,notebook,241,home_office,200,filing_cabinet,Read
+1054.9999999999975,1156,oil,41,dining_room,119,kitchen_counter,Read
+1054.9999999999975,1162,pen,241,home_office,200,filing_cabinet,Read
+1054.9999999999975,1176,remote_control,241,home_office,273,tvstand,Read
+1054.9999999999975,1196,tea,41,dining_room,117,cupboard,Read
+1054.9999999999975,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Read
+1054.9999999999975,1207,trashbag,41,dining_room,99,trashcan,Read
+1054.9999999999975,1215,wine,41,dining_room,114,table,Read
+1054.9999999999975,1216,wine_glass,41,dining_room,117,cupboard,Read
+1055.4999999999975,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Read
+1055.4999999999975,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Read
+1055.4999999999975,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Read
+1055.4999999999975,1174,razor,1,bathroom,17,bathroom_cabinet,Read
+1055.4999999999975,1026,bowl,41,dining_room,117,cupboard,Read
+1055.4999999999975,1193,spoon,41,dining_room,117,cupboard,Read
+1055.4999999999975,1167,plate,41,dining_room,117,cupboard,Read
+1055.4999999999975,1137,knife,41,dining_room,117,cupboard,Read
+1055.4999999999975,1172,radio,41,dining_room,41,dining_room,Read
+1055.4999999999975,1056,cookingpot,41,dining_room,117,cupboard,Read
+1055.4999999999975,1117,fryingpan,41,dining_room,117,cupboard,Read
+1055.4999999999975,99,trashcan,41,dining_room,inf,,Read
+1055.4999999999975,102,mat,41,dining_room,inf,,Read
+1055.4999999999975,130,coffe_maker,41,dining_room,122,kitchen_counter,Read
+1055.4999999999975,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Read
+1055.4999999999975,1023,book,162,bedroom,198,sofa,Read
+1055.4999999999975,1030,cd,241,home_office,273,tvstand,Read
+1055.4999999999975,1031,cd_player,241,home_office,273,tvstand,Read
+1055.4999999999975,1034,chessboard,241,home_office,275,bookshelf,Read
+1055.4999999999975,1048,coffee,41,dining_room,117,cupboard,Read
+1055.4999999999975,1049,coffee_cup,41,dining_room,117,cupboard,Read
+1055.4999999999975,1050,coffee_filter,41,dining_room,117,cupboard,Read
+1055.4999999999975,1058,cup,41,dining_room,117,cupboard,Read
+1055.4999999999975,1059,cutting_board,41,dining_room,123,kitchen_counter,Read
+1055.4999999999975,1060,deck_of_cards,241,home_office,275,bookshelf,Read
+1055.4999999999975,1070,dry_pasta,41,dining_room,117,cupboard,Read
+1055.4999999999975,1083,food_bread,41,dining_room,119,kitchen_counter,Read
+1055.4999999999975,1087,food_cereal,41,dining_room,117,cupboard,Read
+1055.4999999999975,1088,food_cheese,41,dining_room,1006,fridge,Read
+1055.4999999999975,1089,food_chicken,41,dining_room,1006,fridge,Read
+1055.4999999999975,1091,food_donut,41,dining_room,123,kitchen_counter,Read
+1055.4999999999975,1098,food_jam,41,dining_room,1006,fridge,Read
+1055.4999999999975,1102,food_oatmeal,41,dining_room,117,cupboard,Read
+1055.4999999999975,1106,food_peanut_butter,41,dining_room,117,cupboard,Read
+1055.4999999999975,1109,food_rice,41,dining_room,117,cupboard,Read
+1055.4999999999975,1115,food_vegetable,41,dining_room,1006,fridge,Read
+1055.4999999999975,1116,fork,41,dining_room,120,sink,Read
+1055.4999999999975,1120,ground_coffee,41,dining_room,117,cupboard,Read
+1055.4999999999975,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Read
+1055.4999999999975,1123,headset,241,home_office,200,filing_cabinet,Read
+1055.4999999999975,1126,instrument_guitar,241,home_office,241,home_office,Read
+1055.4999999999975,1132,juice,41,dining_room,117,cupboard,Read
+1055.4999999999975,1144,milk,41,dining_room,1006,fridge,Read
+1055.4999999999975,1148,mug,41,dining_room,117,cupboard,Read
+1055.4999999999975,1154,notebook,241,home_office,200,filing_cabinet,Read
+1055.4999999999975,1156,oil,41,dining_room,119,kitchen_counter,Read
+1055.4999999999975,1162,pen,241,home_office,200,filing_cabinet,Read
+1055.4999999999975,1176,remote_control,241,home_office,273,tvstand,Read
+1055.4999999999975,1196,tea,41,dining_room,117,cupboard,Read
+1055.4999999999975,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Read
+1055.4999999999975,1207,trashbag,41,dining_room,99,trashcan,Read
+1055.4999999999975,1215,wine,41,dining_room,114,table,Read
+1055.4999999999975,1216,wine_glass,41,dining_room,117,cupboard,Read
+1066.4999999999975,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Read
+1066.4999999999975,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Read
+1066.4999999999975,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Read
+1066.4999999999975,1174,razor,1,bathroom,17,bathroom_cabinet,Read
+1066.4999999999975,1026,bowl,41,dining_room,117,cupboard,Read
+1066.4999999999975,1193,spoon,41,dining_room,117,cupboard,Read
+1066.4999999999975,1167,plate,41,dining_room,117,cupboard,Read
+1066.4999999999975,1137,knife,41,dining_room,117,cupboard,Read
+1066.4999999999975,1172,radio,41,dining_room,41,dining_room,Read
+1066.4999999999975,1056,cookingpot,41,dining_room,117,cupboard,Read
+1066.4999999999975,1117,fryingpan,41,dining_room,117,cupboard,Read
+1066.4999999999975,99,trashcan,41,dining_room,inf,,Read
+1066.4999999999975,102,mat,41,dining_room,inf,,Read
+1066.4999999999975,130,coffe_maker,41,dining_room,122,kitchen_counter,Read
+1066.4999999999975,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Read
+1066.4999999999975,1023,book,162,bedroom,198,sofa,Read
+1066.4999999999975,1030,cd,241,home_office,273,tvstand,Read
+1066.4999999999975,1031,cd_player,241,home_office,273,tvstand,Read
+1066.4999999999975,1034,chessboard,241,home_office,275,bookshelf,Read
+1066.4999999999975,1048,coffee,41,dining_room,117,cupboard,Read
+1066.4999999999975,1049,coffee_cup,41,dining_room,117,cupboard,Read
+1066.4999999999975,1050,coffee_filter,41,dining_room,117,cupboard,Read
+1066.4999999999975,1058,cup,41,dining_room,117,cupboard,Read
+1066.4999999999975,1059,cutting_board,41,dining_room,123,kitchen_counter,Read
+1066.4999999999975,1060,deck_of_cards,241,home_office,275,bookshelf,Read
+1066.4999999999975,1070,dry_pasta,41,dining_room,117,cupboard,Read
+1066.4999999999975,1083,food_bread,41,dining_room,119,kitchen_counter,Read
+1066.4999999999975,1087,food_cereal,41,dining_room,117,cupboard,Read
+1066.4999999999975,1088,food_cheese,41,dining_room,1006,fridge,Read
+1066.4999999999975,1089,food_chicken,41,dining_room,1006,fridge,Read
+1066.4999999999975,1091,food_donut,41,dining_room,123,kitchen_counter,Read
+1066.4999999999975,1098,food_jam,41,dining_room,1006,fridge,Read
+1066.4999999999975,1102,food_oatmeal,41,dining_room,117,cupboard,Read
+1066.4999999999975,1106,food_peanut_butter,41,dining_room,117,cupboard,Read
+1066.4999999999975,1109,food_rice,41,dining_room,117,cupboard,Read
+1066.4999999999975,1115,food_vegetable,41,dining_room,1006,fridge,Read
+1066.4999999999975,1116,fork,41,dining_room,120,sink,Read
+1066.4999999999975,1120,ground_coffee,41,dining_room,117,cupboard,Read
+1066.4999999999975,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Read
+1066.4999999999975,1123,headset,241,home_office,200,filing_cabinet,Read
+1066.4999999999975,1126,instrument_guitar,241,home_office,241,home_office,Read
+1066.4999999999975,1132,juice,41,dining_room,117,cupboard,Read
+1066.4999999999975,1144,milk,41,dining_room,1006,fridge,Read
+1066.4999999999975,1148,mug,41,dining_room,117,cupboard,Read
+1066.4999999999975,1154,notebook,241,home_office,200,filing_cabinet,Read
+1066.4999999999975,1156,oil,41,dining_room,119,kitchen_counter,Read
+1066.4999999999975,1162,pen,241,home_office,200,filing_cabinet,Read
+1066.4999999999975,1176,remote_control,241,home_office,273,tvstand,Read
+1066.4999999999975,1196,tea,41,dining_room,117,cupboard,Read
+1066.4999999999975,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Read
+1066.4999999999975,1207,trashbag,41,dining_room,99,trashcan,Read
+1066.4999999999975,1215,wine,41,dining_room,114,table,Read
+1066.4999999999975,1216,wine_glass,41,dining_room,117,cupboard,Read
+1066.9999999999975,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Putaway Book
+1066.9999999999975,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Putaway Book
+1066.9999999999975,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Putaway Book
+1066.9999999999975,1174,razor,1,bathroom,17,bathroom_cabinet,Putaway Book
+1066.9999999999975,1026,bowl,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1193,spoon,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1167,plate,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1137,knife,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1172,radio,41,dining_room,41,dining_room,Putaway Book
+1066.9999999999975,1056,cookingpot,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1117,fryingpan,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,99,trashcan,41,dining_room,inf,,Putaway Book
+1066.9999999999975,102,mat,41,dining_room,inf,,Putaway Book
+1066.9999999999975,130,coffe_maker,41,dining_room,122,kitchen_counter,Putaway Book
+1066.9999999999975,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Putaway Book
+1066.9999999999975,1023,book,162,bedroom,198,sofa,Putaway Book
+1066.9999999999975,1030,cd,241,home_office,273,tvstand,Putaway Book
+1066.9999999999975,1031,cd_player,241,home_office,273,tvstand,Putaway Book
+1066.9999999999975,1034,chessboard,241,home_office,275,bookshelf,Putaway Book
+1066.9999999999975,1048,coffee,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1049,coffee_cup,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1050,coffee_filter,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1058,cup,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1059,cutting_board,41,dining_room,123,kitchen_counter,Putaway Book
+1066.9999999999975,1060,deck_of_cards,241,home_office,275,bookshelf,Putaway Book
+1066.9999999999975,1070,dry_pasta,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1083,food_bread,41,dining_room,119,kitchen_counter,Putaway Book
+1066.9999999999975,1087,food_cereal,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1088,food_cheese,41,dining_room,1006,fridge,Putaway Book
+1066.9999999999975,1089,food_chicken,41,dining_room,1006,fridge,Putaway Book
+1066.9999999999975,1091,food_donut,41,dining_room,123,kitchen_counter,Putaway Book
+1066.9999999999975,1098,food_jam,41,dining_room,1006,fridge,Putaway Book
+1066.9999999999975,1102,food_oatmeal,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1106,food_peanut_butter,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1109,food_rice,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1115,food_vegetable,41,dining_room,1006,fridge,Putaway Book
+1066.9999999999975,1116,fork,41,dining_room,120,sink,Putaway Book
+1066.9999999999975,1120,ground_coffee,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Putaway Book
+1066.9999999999975,1123,headset,241,home_office,200,filing_cabinet,Putaway Book
+1066.9999999999975,1126,instrument_guitar,241,home_office,241,home_office,Putaway Book
+1066.9999999999975,1132,juice,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1144,milk,41,dining_room,1006,fridge,Putaway Book
+1066.9999999999975,1148,mug,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1154,notebook,241,home_office,200,filing_cabinet,Putaway Book
+1066.9999999999975,1156,oil,41,dining_room,119,kitchen_counter,Putaway Book
+1066.9999999999975,1162,pen,241,home_office,200,filing_cabinet,Putaway Book
+1066.9999999999975,1176,remote_control,241,home_office,273,tvstand,Putaway Book
+1066.9999999999975,1196,tea,41,dining_room,117,cupboard,Putaway Book
+1066.9999999999975,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Putaway Book
+1066.9999999999975,1207,trashbag,41,dining_room,99,trashcan,Putaway Book
+1066.9999999999975,1215,wine,41,dining_room,114,table,Putaway Book
+1066.9999999999975,1216,wine_glass,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Putaway Book
+1067.9999999999975,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Putaway Book
+1067.9999999999975,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Putaway Book
+1067.9999999999975,1174,razor,1,bathroom,17,bathroom_cabinet,Putaway Book
+1067.9999999999975,1026,bowl,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1193,spoon,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1167,plate,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1137,knife,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1172,radio,41,dining_room,41,dining_room,Putaway Book
+1067.9999999999975,1056,cookingpot,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1117,fryingpan,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,99,trashcan,41,dining_room,inf,,Putaway Book
+1067.9999999999975,102,mat,41,dining_room,inf,,Putaway Book
+1067.9999999999975,130,coffe_maker,41,dining_room,122,kitchen_counter,Putaway Book
+1067.9999999999975,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Putaway Book
+1067.9999999999975,1023,book,162,bedroom,198,sofa,Putaway Book
+1067.9999999999975,1030,cd,241,home_office,273,tvstand,Putaway Book
+1067.9999999999975,1031,cd_player,241,home_office,273,tvstand,Putaway Book
+1067.9999999999975,1034,chessboard,241,home_office,275,bookshelf,Putaway Book
+1067.9999999999975,1048,coffee,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1049,coffee_cup,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1050,coffee_filter,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1058,cup,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1059,cutting_board,41,dining_room,123,kitchen_counter,Putaway Book
+1067.9999999999975,1060,deck_of_cards,241,home_office,275,bookshelf,Putaway Book
+1067.9999999999975,1070,dry_pasta,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1083,food_bread,41,dining_room,119,kitchen_counter,Putaway Book
+1067.9999999999975,1087,food_cereal,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1088,food_cheese,41,dining_room,1006,fridge,Putaway Book
+1067.9999999999975,1089,food_chicken,41,dining_room,1006,fridge,Putaway Book
+1067.9999999999975,1091,food_donut,41,dining_room,123,kitchen_counter,Putaway Book
+1067.9999999999975,1098,food_jam,41,dining_room,1006,fridge,Putaway Book
+1067.9999999999975,1102,food_oatmeal,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1106,food_peanut_butter,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1109,food_rice,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1115,food_vegetable,41,dining_room,1006,fridge,Putaway Book
+1067.9999999999975,1116,fork,41,dining_room,120,sink,Putaway Book
+1067.9999999999975,1120,ground_coffee,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Putaway Book
+1067.9999999999975,1123,headset,241,home_office,200,filing_cabinet,Putaway Book
+1067.9999999999975,1126,instrument_guitar,241,home_office,241,home_office,Putaway Book
+1067.9999999999975,1132,juice,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1144,milk,41,dining_room,1006,fridge,Putaway Book
+1067.9999999999975,1148,mug,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1154,notebook,241,home_office,200,filing_cabinet,Putaway Book
+1067.9999999999975,1156,oil,41,dining_room,119,kitchen_counter,Putaway Book
+1067.9999999999975,1162,pen,241,home_office,200,filing_cabinet,Putaway Book
+1067.9999999999975,1176,remote_control,241,home_office,273,tvstand,Putaway Book
+1067.9999999999975,1196,tea,41,dining_room,117,cupboard,Putaway Book
+1067.9999999999975,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Putaway Book
+1067.9999999999975,1207,trashbag,41,dining_room,99,trashcan,Putaway Book
+1067.9999999999975,1215,wine,41,dining_room,114,table,Putaway Book
+1067.9999999999975,1216,wine_glass,41,dining_room,117,cupboard,Putaway Book
+1069.9999999999975,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Sit to watch TV
+1069.9999999999975,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Sit to watch TV
+1069.9999999999975,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Sit to watch TV
+1069.9999999999975,1174,razor,1,bathroom,17,bathroom_cabinet,Sit to watch TV
+1069.9999999999975,1026,bowl,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1193,spoon,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1167,plate,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1137,knife,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1172,radio,41,dining_room,41,dining_room,Sit to watch TV
+1069.9999999999975,1056,cookingpot,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1117,fryingpan,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,99,trashcan,41,dining_room,inf,,Sit to watch TV
+1069.9999999999975,102,mat,41,dining_room,inf,,Sit to watch TV
+1069.9999999999975,130,coffe_maker,41,dining_room,122,kitchen_counter,Sit to watch TV
+1069.9999999999975,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Sit to watch TV
+1069.9999999999975,1023,book,162,bedroom,196,bookshelf,Sit to watch TV
+1069.9999999999975,1030,cd,241,home_office,273,tvstand,Sit to watch TV
+1069.9999999999975,1031,cd_player,241,home_office,273,tvstand,Sit to watch TV
+1069.9999999999975,1034,chessboard,241,home_office,275,bookshelf,Sit to watch TV
+1069.9999999999975,1048,coffee,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1049,coffee_cup,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1050,coffee_filter,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1058,cup,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1059,cutting_board,41,dining_room,123,kitchen_counter,Sit to watch TV
+1069.9999999999975,1060,deck_of_cards,241,home_office,275,bookshelf,Sit to watch TV
+1069.9999999999975,1070,dry_pasta,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1083,food_bread,41,dining_room,119,kitchen_counter,Sit to watch TV
+1069.9999999999975,1087,food_cereal,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1088,food_cheese,41,dining_room,1006,fridge,Sit to watch TV
+1069.9999999999975,1089,food_chicken,41,dining_room,1006,fridge,Sit to watch TV
+1069.9999999999975,1091,food_donut,41,dining_room,123,kitchen_counter,Sit to watch TV
+1069.9999999999975,1098,food_jam,41,dining_room,1006,fridge,Sit to watch TV
+1069.9999999999975,1102,food_oatmeal,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1106,food_peanut_butter,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1109,food_rice,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1115,food_vegetable,41,dining_room,1006,fridge,Sit to watch TV
+1069.9999999999975,1116,fork,41,dining_room,120,sink,Sit to watch TV
+1069.9999999999975,1120,ground_coffee,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Sit to watch TV
+1069.9999999999975,1123,headset,241,home_office,200,filing_cabinet,Sit to watch TV
+1069.9999999999975,1126,instrument_guitar,241,home_office,241,home_office,Sit to watch TV
+1069.9999999999975,1132,juice,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1144,milk,41,dining_room,1006,fridge,Sit to watch TV
+1069.9999999999975,1148,mug,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1154,notebook,241,home_office,200,filing_cabinet,Sit to watch TV
+1069.9999999999975,1156,oil,41,dining_room,119,kitchen_counter,Sit to watch TV
+1069.9999999999975,1162,pen,241,home_office,200,filing_cabinet,Sit to watch TV
+1069.9999999999975,1176,remote_control,241,home_office,273,tvstand,Sit to watch TV
+1069.9999999999975,1196,tea,41,dining_room,117,cupboard,Sit to watch TV
+1069.9999999999975,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Sit to watch TV
+1069.9999999999975,1207,trashbag,41,dining_room,99,trashcan,Sit to watch TV
+1069.9999999999975,1215,wine,41,dining_room,114,table,Sit to watch TV
+1069.9999999999975,1216,wine_glass,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Sit to watch TV
+1081.3999999999976,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Sit to watch TV
+1081.3999999999976,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Sit to watch TV
+1081.3999999999976,1174,razor,1,bathroom,17,bathroom_cabinet,Sit to watch TV
+1081.3999999999976,1026,bowl,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1193,spoon,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1167,plate,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1137,knife,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1172,radio,41,dining_room,41,dining_room,Sit to watch TV
+1081.3999999999976,1056,cookingpot,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1117,fryingpan,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,99,trashcan,41,dining_room,inf,,Sit to watch TV
+1081.3999999999976,102,mat,41,dining_room,inf,,Sit to watch TV
+1081.3999999999976,130,coffe_maker,41,dining_room,122,kitchen_counter,Sit to watch TV
+1081.3999999999976,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Sit to watch TV
+1081.3999999999976,1023,book,162,bedroom,196,bookshelf,Sit to watch TV
+1081.3999999999976,1030,cd,241,home_office,273,tvstand,Sit to watch TV
+1081.3999999999976,1031,cd_player,241,home_office,273,tvstand,Sit to watch TV
+1081.3999999999976,1034,chessboard,241,home_office,275,bookshelf,Sit to watch TV
+1081.3999999999976,1048,coffee,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1049,coffee_cup,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1050,coffee_filter,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1058,cup,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1059,cutting_board,41,dining_room,123,kitchen_counter,Sit to watch TV
+1081.3999999999976,1060,deck_of_cards,241,home_office,275,bookshelf,Sit to watch TV
+1081.3999999999976,1070,dry_pasta,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1083,food_bread,41,dining_room,119,kitchen_counter,Sit to watch TV
+1081.3999999999976,1087,food_cereal,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1088,food_cheese,41,dining_room,1006,fridge,Sit to watch TV
+1081.3999999999976,1089,food_chicken,41,dining_room,1006,fridge,Sit to watch TV
+1081.3999999999976,1091,food_donut,41,dining_room,123,kitchen_counter,Sit to watch TV
+1081.3999999999976,1098,food_jam,41,dining_room,1006,fridge,Sit to watch TV
+1081.3999999999976,1102,food_oatmeal,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1106,food_peanut_butter,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1109,food_rice,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1115,food_vegetable,41,dining_room,1006,fridge,Sit to watch TV
+1081.3999999999976,1116,fork,41,dining_room,120,sink,Sit to watch TV
+1081.3999999999976,1120,ground_coffee,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Sit to watch TV
+1081.3999999999976,1123,headset,241,home_office,200,filing_cabinet,Sit to watch TV
+1081.3999999999976,1126,instrument_guitar,241,home_office,241,home_office,Sit to watch TV
+1081.3999999999976,1132,juice,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1144,milk,41,dining_room,1006,fridge,Sit to watch TV
+1081.3999999999976,1148,mug,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1154,notebook,241,home_office,200,filing_cabinet,Sit to watch TV
+1081.3999999999976,1156,oil,41,dining_room,119,kitchen_counter,Sit to watch TV
+1081.3999999999976,1162,pen,241,home_office,200,filing_cabinet,Sit to watch TV
+1081.3999999999976,1176,remote_control,241,home_office,273,tvstand,Sit to watch TV
+1081.3999999999976,1196,tea,41,dining_room,117,cupboard,Sit to watch TV
+1081.3999999999976,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Sit to watch TV
+1081.3999999999976,1207,trashbag,41,dining_room,99,trashcan,Sit to watch TV
+1081.3999999999976,1215,wine,41,dining_room,114,table,Sit to watch TV
+1081.3999999999976,1216,wine_glass,41,dining_room,117,cupboard,Sit to watch TV
+1081.9999999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Watch TV
+1081.9999999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Watch TV
+1081.9999999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Watch TV
+1081.9999999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Watch TV
+1081.9999999999977,1026,bowl,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1193,spoon,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1167,plate,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1137,knife,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1172,radio,41,dining_room,41,dining_room,Watch TV
+1081.9999999999977,1056,cookingpot,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1117,fryingpan,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,99,trashcan,41,dining_room,inf,,Watch TV
+1081.9999999999977,102,mat,41,dining_room,inf,,Watch TV
+1081.9999999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Watch TV
+1081.9999999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Watch TV
+1081.9999999999977,1023,book,162,bedroom,196,bookshelf,Watch TV
+1081.9999999999977,1030,cd,241,home_office,273,tvstand,Watch TV
+1081.9999999999977,1031,cd_player,241,home_office,273,tvstand,Watch TV
+1081.9999999999977,1034,chessboard,241,home_office,275,bookshelf,Watch TV
+1081.9999999999977,1048,coffee,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1049,coffee_cup,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1050,coffee_filter,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1058,cup,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Watch TV
+1081.9999999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Watch TV
+1081.9999999999977,1070,dry_pasta,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Watch TV
+1081.9999999999977,1087,food_cereal,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1088,food_cheese,41,dining_room,1006,fridge,Watch TV
+1081.9999999999977,1089,food_chicken,41,dining_room,1006,fridge,Watch TV
+1081.9999999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Watch TV
+1081.9999999999977,1098,food_jam,41,dining_room,1006,fridge,Watch TV
+1081.9999999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1109,food_rice,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1115,food_vegetable,41,dining_room,1006,fridge,Watch TV
+1081.9999999999977,1116,fork,41,dining_room,120,sink,Watch TV
+1081.9999999999977,1120,ground_coffee,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Watch TV
+1081.9999999999977,1123,headset,241,home_office,200,filing_cabinet,Watch TV
+1081.9999999999977,1126,instrument_guitar,241,home_office,241,home_office,Watch TV
+1081.9999999999977,1132,juice,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1144,milk,41,dining_room,1006,fridge,Watch TV
+1081.9999999999977,1148,mug,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1154,notebook,241,home_office,200,filing_cabinet,Watch TV
+1081.9999999999977,1156,oil,41,dining_room,119,kitchen_counter,Watch TV
+1081.9999999999977,1162,pen,241,home_office,200,filing_cabinet,Watch TV
+1081.9999999999977,1176,remote_control,241,home_office,269,sofa,Watch TV
+1081.9999999999977,1196,tea,41,dining_room,117,cupboard,Watch TV
+1081.9999999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Watch TV
+1081.9999999999977,1207,trashbag,41,dining_room,99,trashcan,Watch TV
+1081.9999999999977,1215,wine,41,dining_room,114,table,Watch TV
+1081.9999999999977,1216,wine_glass,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Watch TV
+1096.9999999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Watch TV
+1096.9999999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Watch TV
+1096.9999999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Watch TV
+1096.9999999999977,1026,bowl,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1193,spoon,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1167,plate,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1137,knife,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1172,radio,41,dining_room,41,dining_room,Watch TV
+1096.9999999999977,1056,cookingpot,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1117,fryingpan,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,99,trashcan,41,dining_room,inf,,Watch TV
+1096.9999999999977,102,mat,41,dining_room,inf,,Watch TV
+1096.9999999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Watch TV
+1096.9999999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Watch TV
+1096.9999999999977,1023,book,162,bedroom,196,bookshelf,Watch TV
+1096.9999999999977,1030,cd,241,home_office,273,tvstand,Watch TV
+1096.9999999999977,1031,cd_player,241,home_office,273,tvstand,Watch TV
+1096.9999999999977,1034,chessboard,241,home_office,275,bookshelf,Watch TV
+1096.9999999999977,1048,coffee,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1049,coffee_cup,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1050,coffee_filter,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1058,cup,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Watch TV
+1096.9999999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Watch TV
+1096.9999999999977,1070,dry_pasta,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Watch TV
+1096.9999999999977,1087,food_cereal,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1088,food_cheese,41,dining_room,1006,fridge,Watch TV
+1096.9999999999977,1089,food_chicken,41,dining_room,1006,fridge,Watch TV
+1096.9999999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Watch TV
+1096.9999999999977,1098,food_jam,41,dining_room,1006,fridge,Watch TV
+1096.9999999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1109,food_rice,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1115,food_vegetable,41,dining_room,1006,fridge,Watch TV
+1096.9999999999977,1116,fork,41,dining_room,120,sink,Watch TV
+1096.9999999999977,1120,ground_coffee,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Watch TV
+1096.9999999999977,1123,headset,241,home_office,200,filing_cabinet,Watch TV
+1096.9999999999977,1126,instrument_guitar,241,home_office,241,home_office,Watch TV
+1096.9999999999977,1132,juice,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1144,milk,41,dining_room,1006,fridge,Watch TV
+1096.9999999999977,1148,mug,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1154,notebook,241,home_office,200,filing_cabinet,Watch TV
+1096.9999999999977,1156,oil,41,dining_room,119,kitchen_counter,Watch TV
+1096.9999999999977,1162,pen,241,home_office,200,filing_cabinet,Watch TV
+1096.9999999999977,1176,remote_control,241,home_office,269,sofa,Watch TV
+1096.9999999999977,1196,tea,41,dining_room,117,cupboard,Watch TV
+1096.9999999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Watch TV
+1096.9999999999977,1207,trashbag,41,dining_room,99,trashcan,Watch TV
+1096.9999999999977,1215,wine,41,dining_room,114,table,Watch TV
+1096.9999999999977,1216,wine_glass,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Watch TV
+1111.9999999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Watch TV
+1111.9999999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Watch TV
+1111.9999999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Watch TV
+1111.9999999999977,1026,bowl,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1193,spoon,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1167,plate,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1137,knife,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1172,radio,41,dining_room,41,dining_room,Watch TV
+1111.9999999999977,1056,cookingpot,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1117,fryingpan,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,99,trashcan,41,dining_room,inf,,Watch TV
+1111.9999999999977,102,mat,41,dining_room,inf,,Watch TV
+1111.9999999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Watch TV
+1111.9999999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Watch TV
+1111.9999999999977,1023,book,162,bedroom,196,bookshelf,Watch TV
+1111.9999999999977,1030,cd,241,home_office,273,tvstand,Watch TV
+1111.9999999999977,1031,cd_player,241,home_office,273,tvstand,Watch TV
+1111.9999999999977,1034,chessboard,241,home_office,275,bookshelf,Watch TV
+1111.9999999999977,1048,coffee,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1049,coffee_cup,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1050,coffee_filter,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1058,cup,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Watch TV
+1111.9999999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Watch TV
+1111.9999999999977,1070,dry_pasta,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Watch TV
+1111.9999999999977,1087,food_cereal,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1088,food_cheese,41,dining_room,1006,fridge,Watch TV
+1111.9999999999977,1089,food_chicken,41,dining_room,1006,fridge,Watch TV
+1111.9999999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Watch TV
+1111.9999999999977,1098,food_jam,41,dining_room,1006,fridge,Watch TV
+1111.9999999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1109,food_rice,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1115,food_vegetable,41,dining_room,1006,fridge,Watch TV
+1111.9999999999977,1116,fork,41,dining_room,120,sink,Watch TV
+1111.9999999999977,1120,ground_coffee,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Watch TV
+1111.9999999999977,1123,headset,241,home_office,200,filing_cabinet,Watch TV
+1111.9999999999977,1126,instrument_guitar,241,home_office,241,home_office,Watch TV
+1111.9999999999977,1132,juice,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1144,milk,41,dining_room,1006,fridge,Watch TV
+1111.9999999999977,1148,mug,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1154,notebook,241,home_office,200,filing_cabinet,Watch TV
+1111.9999999999977,1156,oil,41,dining_room,119,kitchen_counter,Watch TV
+1111.9999999999977,1162,pen,241,home_office,200,filing_cabinet,Watch TV
+1111.9999999999977,1176,remote_control,241,home_office,269,sofa,Watch TV
+1111.9999999999977,1196,tea,41,dining_room,117,cupboard,Watch TV
+1111.9999999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Watch TV
+1111.9999999999977,1207,trashbag,41,dining_room,99,trashcan,Watch TV
+1111.9999999999977,1215,wine,41,dining_room,114,table,Watch TV
+1111.9999999999977,1216,wine_glass,41,dining_room,117,cupboard,Watch TV
+1126.9999999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Putaway TV remote
+1126.9999999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Putaway TV remote
+1126.9999999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Putaway TV remote
+1126.9999999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Putaway TV remote
+1126.9999999999977,1026,bowl,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1193,spoon,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1167,plate,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1137,knife,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1172,radio,41,dining_room,41,dining_room,Putaway TV remote
+1126.9999999999977,1056,cookingpot,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1117,fryingpan,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,99,trashcan,41,dining_room,inf,,Putaway TV remote
+1126.9999999999977,102,mat,41,dining_room,inf,,Putaway TV remote
+1126.9999999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Putaway TV remote
+1126.9999999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Putaway TV remote
+1126.9999999999977,1023,book,162,bedroom,196,bookshelf,Putaway TV remote
+1126.9999999999977,1030,cd,241,home_office,273,tvstand,Putaway TV remote
+1126.9999999999977,1031,cd_player,241,home_office,273,tvstand,Putaway TV remote
+1126.9999999999977,1034,chessboard,241,home_office,275,bookshelf,Putaway TV remote
+1126.9999999999977,1048,coffee,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1049,coffee_cup,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1050,coffee_filter,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1058,cup,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Putaway TV remote
+1126.9999999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Putaway TV remote
+1126.9999999999977,1070,dry_pasta,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Putaway TV remote
+1126.9999999999977,1087,food_cereal,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1088,food_cheese,41,dining_room,1006,fridge,Putaway TV remote
+1126.9999999999977,1089,food_chicken,41,dining_room,1006,fridge,Putaway TV remote
+1126.9999999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Putaway TV remote
+1126.9999999999977,1098,food_jam,41,dining_room,1006,fridge,Putaway TV remote
+1126.9999999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1109,food_rice,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1115,food_vegetable,41,dining_room,1006,fridge,Putaway TV remote
+1126.9999999999977,1116,fork,41,dining_room,120,sink,Putaway TV remote
+1126.9999999999977,1120,ground_coffee,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Putaway TV remote
+1126.9999999999977,1123,headset,241,home_office,200,filing_cabinet,Putaway TV remote
+1126.9999999999977,1126,instrument_guitar,241,home_office,241,home_office,Putaway TV remote
+1126.9999999999977,1132,juice,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1144,milk,41,dining_room,1006,fridge,Putaway TV remote
+1126.9999999999977,1148,mug,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1154,notebook,241,home_office,200,filing_cabinet,Putaway TV remote
+1126.9999999999977,1156,oil,41,dining_room,119,kitchen_counter,Putaway TV remote
+1126.9999999999977,1162,pen,241,home_office,200,filing_cabinet,Putaway TV remote
+1126.9999999999977,1176,remote_control,241,home_office,269,sofa,Putaway TV remote
+1126.9999999999977,1196,tea,41,dining_room,117,cupboard,Putaway TV remote
+1126.9999999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Putaway TV remote
+1126.9999999999977,1207,trashbag,41,dining_room,99,trashcan,Putaway TV remote
+1126.9999999999977,1215,wine,41,dining_room,114,table,Putaway TV remote
+1126.9999999999977,1216,wine_glass,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Putaway TV remote
+1127.2499999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Putaway TV remote
+1127.2499999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Putaway TV remote
+1127.2499999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Putaway TV remote
+1127.2499999999977,1026,bowl,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1193,spoon,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1167,plate,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1137,knife,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1172,radio,41,dining_room,41,dining_room,Putaway TV remote
+1127.2499999999977,1056,cookingpot,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1117,fryingpan,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,99,trashcan,41,dining_room,inf,,Putaway TV remote
+1127.2499999999977,102,mat,41,dining_room,inf,,Putaway TV remote
+1127.2499999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Putaway TV remote
+1127.2499999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Putaway TV remote
+1127.2499999999977,1023,book,162,bedroom,196,bookshelf,Putaway TV remote
+1127.2499999999977,1030,cd,241,home_office,273,tvstand,Putaway TV remote
+1127.2499999999977,1031,cd_player,241,home_office,273,tvstand,Putaway TV remote
+1127.2499999999977,1034,chessboard,241,home_office,275,bookshelf,Putaway TV remote
+1127.2499999999977,1048,coffee,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1049,coffee_cup,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1050,coffee_filter,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1058,cup,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Putaway TV remote
+1127.2499999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Putaway TV remote
+1127.2499999999977,1070,dry_pasta,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Putaway TV remote
+1127.2499999999977,1087,food_cereal,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1088,food_cheese,41,dining_room,1006,fridge,Putaway TV remote
+1127.2499999999977,1089,food_chicken,41,dining_room,1006,fridge,Putaway TV remote
+1127.2499999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Putaway TV remote
+1127.2499999999977,1098,food_jam,41,dining_room,1006,fridge,Putaway TV remote
+1127.2499999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1109,food_rice,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1115,food_vegetable,41,dining_room,1006,fridge,Putaway TV remote
+1127.2499999999977,1116,fork,41,dining_room,120,sink,Putaway TV remote
+1127.2499999999977,1120,ground_coffee,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Putaway TV remote
+1127.2499999999977,1123,headset,241,home_office,200,filing_cabinet,Putaway TV remote
+1127.2499999999977,1126,instrument_guitar,241,home_office,241,home_office,Putaway TV remote
+1127.2499999999977,1132,juice,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1144,milk,41,dining_room,1006,fridge,Putaway TV remote
+1127.2499999999977,1148,mug,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1154,notebook,241,home_office,200,filing_cabinet,Putaway TV remote
+1127.2499999999977,1156,oil,41,dining_room,119,kitchen_counter,Putaway TV remote
+1127.2499999999977,1162,pen,241,home_office,200,filing_cabinet,Putaway TV remote
+1127.2499999999977,1176,remote_control,241,home_office,269,sofa,Putaway TV remote
+1127.2499999999977,1196,tea,41,dining_room,117,cupboard,Putaway TV remote
+1127.2499999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Putaway TV remote
+1127.2499999999977,1207,trashbag,41,dining_room,99,trashcan,Putaway TV remote
+1127.2499999999977,1215,wine,41,dining_room,114,table,Putaway TV remote
+1127.2499999999977,1216,wine_glass,41,dining_room,117,cupboard,Putaway TV remote
+1129.9999999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Greet friends
+1129.9999999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Greet friends
+1129.9999999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Greet friends
+1129.9999999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Greet friends
+1129.9999999999977,1026,bowl,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1193,spoon,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1167,plate,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1137,knife,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1172,radio,41,dining_room,41,dining_room,Greet friends
+1129.9999999999977,1056,cookingpot,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1117,fryingpan,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,99,trashcan,41,dining_room,inf,,Greet friends
+1129.9999999999977,102,mat,41,dining_room,inf,,Greet friends
+1129.9999999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Greet friends
+1129.9999999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Greet friends
+1129.9999999999977,1023,book,162,bedroom,196,bookshelf,Greet friends
+1129.9999999999977,1030,cd,241,home_office,273,tvstand,Greet friends
+1129.9999999999977,1031,cd_player,241,home_office,273,tvstand,Greet friends
+1129.9999999999977,1034,chessboard,241,home_office,275,bookshelf,Greet friends
+1129.9999999999977,1048,coffee,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1049,coffee_cup,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1050,coffee_filter,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1058,cup,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Greet friends
+1129.9999999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Greet friends
+1129.9999999999977,1070,dry_pasta,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Greet friends
+1129.9999999999977,1087,food_cereal,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1088,food_cheese,41,dining_room,1006,fridge,Greet friends
+1129.9999999999977,1089,food_chicken,41,dining_room,1006,fridge,Greet friends
+1129.9999999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Greet friends
+1129.9999999999977,1098,food_jam,41,dining_room,1006,fridge,Greet friends
+1129.9999999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1109,food_rice,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1115,food_vegetable,41,dining_room,1006,fridge,Greet friends
+1129.9999999999977,1116,fork,41,dining_room,120,sink,Greet friends
+1129.9999999999977,1120,ground_coffee,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Greet friends
+1129.9999999999977,1123,headset,241,home_office,200,filing_cabinet,Greet friends
+1129.9999999999977,1126,instrument_guitar,241,home_office,241,home_office,Greet friends
+1129.9999999999977,1132,juice,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1144,milk,41,dining_room,1006,fridge,Greet friends
+1129.9999999999977,1148,mug,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1154,notebook,241,home_office,200,filing_cabinet,Greet friends
+1129.9999999999977,1156,oil,41,dining_room,119,kitchen_counter,Greet friends
+1129.9999999999977,1162,pen,241,home_office,200,filing_cabinet,Greet friends
+1129.9999999999977,1176,remote_control,241,home_office,273,tvstand,Greet friends
+1129.9999999999977,1196,tea,41,dining_room,117,cupboard,Greet friends
+1129.9999999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Greet friends
+1129.9999999999977,1207,trashbag,41,dining_room,99,trashcan,Greet friends
+1129.9999999999977,1215,wine,41,dining_room,114,table,Greet friends
+1129.9999999999977,1216,wine_glass,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Greet friends
+1134.9999999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Greet friends
+1134.9999999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Greet friends
+1134.9999999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Greet friends
+1134.9999999999977,1026,bowl,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1193,spoon,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1167,plate,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1137,knife,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1172,radio,41,dining_room,41,dining_room,Greet friends
+1134.9999999999977,1056,cookingpot,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1117,fryingpan,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,99,trashcan,41,dining_room,inf,,Greet friends
+1134.9999999999977,102,mat,41,dining_room,inf,,Greet friends
+1134.9999999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Greet friends
+1134.9999999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Greet friends
+1134.9999999999977,1023,book,162,bedroom,196,bookshelf,Greet friends
+1134.9999999999977,1030,cd,241,home_office,273,tvstand,Greet friends
+1134.9999999999977,1031,cd_player,241,home_office,273,tvstand,Greet friends
+1134.9999999999977,1034,chessboard,241,home_office,275,bookshelf,Greet friends
+1134.9999999999977,1048,coffee,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1049,coffee_cup,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1050,coffee_filter,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1058,cup,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Greet friends
+1134.9999999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Greet friends
+1134.9999999999977,1070,dry_pasta,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Greet friends
+1134.9999999999977,1087,food_cereal,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1088,food_cheese,41,dining_room,1006,fridge,Greet friends
+1134.9999999999977,1089,food_chicken,41,dining_room,1006,fridge,Greet friends
+1134.9999999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Greet friends
+1134.9999999999977,1098,food_jam,41,dining_room,1006,fridge,Greet friends
+1134.9999999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1109,food_rice,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1115,food_vegetable,41,dining_room,1006,fridge,Greet friends
+1134.9999999999977,1116,fork,41,dining_room,120,sink,Greet friends
+1134.9999999999977,1120,ground_coffee,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Greet friends
+1134.9999999999977,1123,headset,241,home_office,200,filing_cabinet,Greet friends
+1134.9999999999977,1126,instrument_guitar,241,home_office,241,home_office,Greet friends
+1134.9999999999977,1132,juice,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1144,milk,41,dining_room,1006,fridge,Greet friends
+1134.9999999999977,1148,mug,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1154,notebook,241,home_office,200,filing_cabinet,Greet friends
+1134.9999999999977,1156,oil,41,dining_room,119,kitchen_counter,Greet friends
+1134.9999999999977,1162,pen,241,home_office,200,filing_cabinet,Greet friends
+1134.9999999999977,1176,remote_control,241,home_office,273,tvstand,Greet friends
+1134.9999999999977,1196,tea,41,dining_room,117,cupboard,Greet friends
+1134.9999999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Greet friends
+1134.9999999999977,1207,trashbag,41,dining_room,99,trashcan,Greet friends
+1134.9999999999977,1215,wine,41,dining_room,114,table,Greet friends
+1134.9999999999977,1216,wine_glass,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Greet friends
+1137.4999999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Greet friends
+1137.4999999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Greet friends
+1137.4999999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Greet friends
+1137.4999999999977,1026,bowl,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1193,spoon,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1167,plate,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1137,knife,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1172,radio,41,dining_room,41,dining_room,Greet friends
+1137.4999999999977,1056,cookingpot,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1117,fryingpan,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,99,trashcan,41,dining_room,inf,,Greet friends
+1137.4999999999977,102,mat,41,dining_room,inf,,Greet friends
+1137.4999999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Greet friends
+1137.4999999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Greet friends
+1137.4999999999977,1023,book,162,bedroom,196,bookshelf,Greet friends
+1137.4999999999977,1030,cd,241,home_office,273,tvstand,Greet friends
+1137.4999999999977,1031,cd_player,241,home_office,273,tvstand,Greet friends
+1137.4999999999977,1034,chessboard,241,home_office,275,bookshelf,Greet friends
+1137.4999999999977,1048,coffee,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1049,coffee_cup,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1050,coffee_filter,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1058,cup,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Greet friends
+1137.4999999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Greet friends
+1137.4999999999977,1070,dry_pasta,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Greet friends
+1137.4999999999977,1087,food_cereal,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1088,food_cheese,41,dining_room,1006,fridge,Greet friends
+1137.4999999999977,1089,food_chicken,41,dining_room,1006,fridge,Greet friends
+1137.4999999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Greet friends
+1137.4999999999977,1098,food_jam,41,dining_room,1006,fridge,Greet friends
+1137.4999999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1109,food_rice,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1115,food_vegetable,41,dining_room,1006,fridge,Greet friends
+1137.4999999999977,1116,fork,41,dining_room,120,sink,Greet friends
+1137.4999999999977,1120,ground_coffee,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Greet friends
+1137.4999999999977,1123,headset,241,home_office,200,filing_cabinet,Greet friends
+1137.4999999999977,1126,instrument_guitar,241,home_office,241,home_office,Greet friends
+1137.4999999999977,1132,juice,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1144,milk,41,dining_room,1006,fridge,Greet friends
+1137.4999999999977,1148,mug,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1154,notebook,241,home_office,200,filing_cabinet,Greet friends
+1137.4999999999977,1156,oil,41,dining_room,119,kitchen_counter,Greet friends
+1137.4999999999977,1162,pen,241,home_office,200,filing_cabinet,Greet friends
+1137.4999999999977,1176,remote_control,241,home_office,273,tvstand,Greet friends
+1137.4999999999977,1196,tea,41,dining_room,117,cupboard,Greet friends
+1137.4999999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Greet friends
+1137.4999999999977,1207,trashbag,41,dining_room,99,trashcan,Greet friends
+1137.4999999999977,1215,wine,41,dining_room,114,table,Greet friends
+1137.4999999999977,1216,wine_glass,41,dining_room,117,cupboard,Greet friends
+1139.9999999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Prepare games
+1139.9999999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Prepare games
+1139.9999999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Prepare games
+1139.9999999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Prepare games
+1139.9999999999977,1026,bowl,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1193,spoon,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1167,plate,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1137,knife,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1172,radio,41,dining_room,41,dining_room,Prepare games
+1139.9999999999977,1056,cookingpot,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1117,fryingpan,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,99,trashcan,41,dining_room,inf,,Prepare games
+1139.9999999999977,102,mat,41,dining_room,inf,,Prepare games
+1139.9999999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Prepare games
+1139.9999999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Prepare games
+1139.9999999999977,1023,book,162,bedroom,196,bookshelf,Prepare games
+1139.9999999999977,1030,cd,241,home_office,273,tvstand,Prepare games
+1139.9999999999977,1031,cd_player,241,home_office,273,tvstand,Prepare games
+1139.9999999999977,1034,chessboard,241,home_office,275,bookshelf,Prepare games
+1139.9999999999977,1048,coffee,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1049,coffee_cup,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1050,coffee_filter,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1058,cup,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Prepare games
+1139.9999999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Prepare games
+1139.9999999999977,1070,dry_pasta,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Prepare games
+1139.9999999999977,1087,food_cereal,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1088,food_cheese,41,dining_room,1006,fridge,Prepare games
+1139.9999999999977,1089,food_chicken,41,dining_room,1006,fridge,Prepare games
+1139.9999999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Prepare games
+1139.9999999999977,1098,food_jam,41,dining_room,1006,fridge,Prepare games
+1139.9999999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1109,food_rice,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1115,food_vegetable,41,dining_room,1006,fridge,Prepare games
+1139.9999999999977,1116,fork,41,dining_room,120,sink,Prepare games
+1139.9999999999977,1120,ground_coffee,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Prepare games
+1139.9999999999977,1123,headset,241,home_office,200,filing_cabinet,Prepare games
+1139.9999999999977,1126,instrument_guitar,241,home_office,241,home_office,Prepare games
+1139.9999999999977,1132,juice,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1144,milk,41,dining_room,1006,fridge,Prepare games
+1139.9999999999977,1148,mug,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1154,notebook,241,home_office,200,filing_cabinet,Prepare games
+1139.9999999999977,1156,oil,41,dining_room,119,kitchen_counter,Prepare games
+1139.9999999999977,1162,pen,241,home_office,200,filing_cabinet,Prepare games
+1139.9999999999977,1176,remote_control,241,home_office,273,tvstand,Prepare games
+1139.9999999999977,1196,tea,41,dining_room,117,cupboard,Prepare games
+1139.9999999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Prepare games
+1139.9999999999977,1207,trashbag,41,dining_room,99,trashcan,Prepare games
+1139.9999999999977,1215,wine,41,dining_room,114,table,Prepare games
+1139.9999999999977,1216,wine_glass,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Prepare games
+1140.3749999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Prepare games
+1140.3749999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Prepare games
+1140.3749999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Prepare games
+1140.3749999999977,1026,bowl,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1193,spoon,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1167,plate,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1137,knife,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1172,radio,41,dining_room,41,dining_room,Prepare games
+1140.3749999999977,1056,cookingpot,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1117,fryingpan,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,99,trashcan,41,dining_room,inf,,Prepare games
+1140.3749999999977,102,mat,41,dining_room,inf,,Prepare games
+1140.3749999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Prepare games
+1140.3749999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Prepare games
+1140.3749999999977,1023,book,162,bedroom,196,bookshelf,Prepare games
+1140.3749999999977,1030,cd,241,home_office,273,tvstand,Prepare games
+1140.3749999999977,1031,cd_player,241,home_office,273,tvstand,Prepare games
+1140.3749999999977,1034,chessboard,241,home_office,275,bookshelf,Prepare games
+1140.3749999999977,1048,coffee,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1049,coffee_cup,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1050,coffee_filter,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1058,cup,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Prepare games
+1140.3749999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Prepare games
+1140.3749999999977,1070,dry_pasta,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Prepare games
+1140.3749999999977,1087,food_cereal,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1088,food_cheese,41,dining_room,1006,fridge,Prepare games
+1140.3749999999977,1089,food_chicken,41,dining_room,1006,fridge,Prepare games
+1140.3749999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Prepare games
+1140.3749999999977,1098,food_jam,41,dining_room,1006,fridge,Prepare games
+1140.3749999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1109,food_rice,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1115,food_vegetable,41,dining_room,1006,fridge,Prepare games
+1140.3749999999977,1116,fork,41,dining_room,120,sink,Prepare games
+1140.3749999999977,1120,ground_coffee,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Prepare games
+1140.3749999999977,1123,headset,241,home_office,200,filing_cabinet,Prepare games
+1140.3749999999977,1126,instrument_guitar,241,home_office,241,home_office,Prepare games
+1140.3749999999977,1132,juice,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1144,milk,41,dining_room,1006,fridge,Prepare games
+1140.3749999999977,1148,mug,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1154,notebook,241,home_office,200,filing_cabinet,Prepare games
+1140.3749999999977,1156,oil,41,dining_room,119,kitchen_counter,Prepare games
+1140.3749999999977,1162,pen,241,home_office,200,filing_cabinet,Prepare games
+1140.3749999999977,1176,remote_control,241,home_office,273,tvstand,Prepare games
+1140.3749999999977,1196,tea,41,dining_room,117,cupboard,Prepare games
+1140.3749999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Prepare games
+1140.3749999999977,1207,trashbag,41,dining_room,99,trashcan,Prepare games
+1140.3749999999977,1215,wine,41,dining_room,114,table,Prepare games
+1140.3749999999977,1216,wine_glass,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Prepare games
+1141.8749999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Prepare games
+1141.8749999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Prepare games
+1141.8749999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Prepare games
+1141.8749999999977,1026,bowl,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1193,spoon,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1167,plate,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1137,knife,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1172,radio,41,dining_room,41,dining_room,Prepare games
+1141.8749999999977,1056,cookingpot,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1117,fryingpan,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,99,trashcan,41,dining_room,inf,,Prepare games
+1141.8749999999977,102,mat,41,dining_room,inf,,Prepare games
+1141.8749999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Prepare games
+1141.8749999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Prepare games
+1141.8749999999977,1023,book,162,bedroom,196,bookshelf,Prepare games
+1141.8749999999977,1030,cd,241,home_office,273,tvstand,Prepare games
+1141.8749999999977,1031,cd_player,241,home_office,273,tvstand,Prepare games
+1141.8749999999977,1034,chessboard,41,dining_room,114,table,Prepare games
+1141.8749999999977,1048,coffee,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1049,coffee_cup,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1050,coffee_filter,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1058,cup,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Prepare games
+1141.8749999999977,1060,deck_of_cards,241,home_office,275,bookshelf,Prepare games
+1141.8749999999977,1070,dry_pasta,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Prepare games
+1141.8749999999977,1087,food_cereal,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1088,food_cheese,41,dining_room,1006,fridge,Prepare games
+1141.8749999999977,1089,food_chicken,41,dining_room,1006,fridge,Prepare games
+1141.8749999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Prepare games
+1141.8749999999977,1098,food_jam,41,dining_room,1006,fridge,Prepare games
+1141.8749999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1109,food_rice,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1115,food_vegetable,41,dining_room,1006,fridge,Prepare games
+1141.8749999999977,1116,fork,41,dining_room,120,sink,Prepare games
+1141.8749999999977,1120,ground_coffee,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Prepare games
+1141.8749999999977,1123,headset,241,home_office,200,filing_cabinet,Prepare games
+1141.8749999999977,1126,instrument_guitar,241,home_office,241,home_office,Prepare games
+1141.8749999999977,1132,juice,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1144,milk,41,dining_room,1006,fridge,Prepare games
+1141.8749999999977,1148,mug,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1154,notebook,241,home_office,200,filing_cabinet,Prepare games
+1141.8749999999977,1156,oil,41,dining_room,119,kitchen_counter,Prepare games
+1141.8749999999977,1162,pen,241,home_office,200,filing_cabinet,Prepare games
+1141.8749999999977,1176,remote_control,241,home_office,273,tvstand,Prepare games
+1141.8749999999977,1196,tea,41,dining_room,117,cupboard,Prepare games
+1141.8749999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Prepare games
+1141.8749999999977,1207,trashbag,41,dining_room,99,trashcan,Prepare games
+1141.8749999999977,1215,wine,41,dining_room,114,table,Prepare games
+1141.8749999999977,1216,wine_glass,41,dining_room,117,cupboard,Prepare games
+1142.9999999999977,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Prepare coffee
+1142.9999999999977,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1142.9999999999977,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1142.9999999999977,1174,razor,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1142.9999999999977,1026,bowl,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1193,spoon,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1167,plate,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1137,knife,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1172,radio,41,dining_room,41,dining_room,Prepare coffee
+1142.9999999999977,1056,cookingpot,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1117,fryingpan,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,99,trashcan,41,dining_room,inf,,Prepare coffee
+1142.9999999999977,102,mat,41,dining_room,inf,,Prepare coffee
+1142.9999999999977,130,coffe_maker,41,dining_room,122,kitchen_counter,Prepare coffee
+1142.9999999999977,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Prepare coffee
+1142.9999999999977,1023,book,162,bedroom,196,bookshelf,Prepare coffee
+1142.9999999999977,1030,cd,241,home_office,273,tvstand,Prepare coffee
+1142.9999999999977,1031,cd_player,241,home_office,273,tvstand,Prepare coffee
+1142.9999999999977,1034,chessboard,41,dining_room,114,table,Prepare coffee
+1142.9999999999977,1048,coffee,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1049,coffee_cup,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1050,coffee_filter,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1058,cup,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1059,cutting_board,41,dining_room,123,kitchen_counter,Prepare coffee
+1142.9999999999977,1060,deck_of_cards,41,dining_room,114,table,Prepare coffee
+1142.9999999999977,1070,dry_pasta,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1083,food_bread,41,dining_room,119,kitchen_counter,Prepare coffee
+1142.9999999999977,1087,food_cereal,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1088,food_cheese,41,dining_room,1006,fridge,Prepare coffee
+1142.9999999999977,1089,food_chicken,41,dining_room,1006,fridge,Prepare coffee
+1142.9999999999977,1091,food_donut,41,dining_room,123,kitchen_counter,Prepare coffee
+1142.9999999999977,1098,food_jam,41,dining_room,1006,fridge,Prepare coffee
+1142.9999999999977,1102,food_oatmeal,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1106,food_peanut_butter,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1109,food_rice,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1115,food_vegetable,41,dining_room,1006,fridge,Prepare coffee
+1142.9999999999977,1116,fork,41,dining_room,120,sink,Prepare coffee
+1142.9999999999977,1120,ground_coffee,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1142.9999999999977,1123,headset,241,home_office,200,filing_cabinet,Prepare coffee
+1142.9999999999977,1126,instrument_guitar,241,home_office,241,home_office,Prepare coffee
+1142.9999999999977,1132,juice,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1144,milk,41,dining_room,1006,fridge,Prepare coffee
+1142.9999999999977,1148,mug,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1154,notebook,241,home_office,200,filing_cabinet,Prepare coffee
+1142.9999999999977,1156,oil,41,dining_room,119,kitchen_counter,Prepare coffee
+1142.9999999999977,1162,pen,241,home_office,200,filing_cabinet,Prepare coffee
+1142.9999999999977,1176,remote_control,241,home_office,273,tvstand,Prepare coffee
+1142.9999999999977,1196,tea,41,dining_room,117,cupboard,Prepare coffee
+1142.9999999999977,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1142.9999999999977,1207,trashbag,41,dining_room,99,trashcan,Prepare coffee
+1142.9999999999977,1215,wine,41,dining_room,114,table,Prepare coffee
+1142.9999999999977,1216,wine_glass,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Prepare coffee
+1144.111111111109,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1144.111111111109,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1144.111111111109,1174,razor,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1144.111111111109,1026,bowl,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1193,spoon,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1167,plate,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1137,knife,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1172,radio,41,dining_room,41,dining_room,Prepare coffee
+1144.111111111109,1056,cookingpot,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1117,fryingpan,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,99,trashcan,41,dining_room,inf,,Prepare coffee
+1144.111111111109,102,mat,41,dining_room,inf,,Prepare coffee
+1144.111111111109,130,coffe_maker,41,dining_room,122,kitchen_counter,Prepare coffee
+1144.111111111109,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Prepare coffee
+1144.111111111109,1023,book,162,bedroom,196,bookshelf,Prepare coffee
+1144.111111111109,1030,cd,241,home_office,273,tvstand,Prepare coffee
+1144.111111111109,1031,cd_player,241,home_office,273,tvstand,Prepare coffee
+1144.111111111109,1034,chessboard,41,dining_room,114,table,Prepare coffee
+1144.111111111109,1048,coffee,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1049,coffee_cup,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1050,coffee_filter,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1058,cup,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1059,cutting_board,41,dining_room,123,kitchen_counter,Prepare coffee
+1144.111111111109,1060,deck_of_cards,41,dining_room,114,table,Prepare coffee
+1144.111111111109,1070,dry_pasta,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1083,food_bread,41,dining_room,119,kitchen_counter,Prepare coffee
+1144.111111111109,1087,food_cereal,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1088,food_cheese,41,dining_room,1006,fridge,Prepare coffee
+1144.111111111109,1089,food_chicken,41,dining_room,1006,fridge,Prepare coffee
+1144.111111111109,1091,food_donut,41,dining_room,123,kitchen_counter,Prepare coffee
+1144.111111111109,1098,food_jam,41,dining_room,1006,fridge,Prepare coffee
+1144.111111111109,1102,food_oatmeal,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1106,food_peanut_butter,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1109,food_rice,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1115,food_vegetable,41,dining_room,1006,fridge,Prepare coffee
+1144.111111111109,1116,fork,41,dining_room,120,sink,Prepare coffee
+1144.111111111109,1120,ground_coffee,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1144.111111111109,1123,headset,241,home_office,200,filing_cabinet,Prepare coffee
+1144.111111111109,1126,instrument_guitar,241,home_office,241,home_office,Prepare coffee
+1144.111111111109,1132,juice,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1144,milk,41,dining_room,1006,fridge,Prepare coffee
+1144.111111111109,1148,mug,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1154,notebook,241,home_office,200,filing_cabinet,Prepare coffee
+1144.111111111109,1156,oil,41,dining_room,119,kitchen_counter,Prepare coffee
+1144.111111111109,1162,pen,241,home_office,200,filing_cabinet,Prepare coffee
+1144.111111111109,1176,remote_control,241,home_office,273,tvstand,Prepare coffee
+1144.111111111109,1196,tea,41,dining_room,117,cupboard,Prepare coffee
+1144.111111111109,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1144.111111111109,1207,trashbag,41,dining_room,99,trashcan,Prepare coffee
+1144.111111111109,1215,wine,41,dining_room,114,table,Prepare coffee
+1144.111111111109,1216,wine_glass,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Prepare coffee
+1145.2222222222204,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1145.2222222222204,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1145.2222222222204,1174,razor,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1145.2222222222204,1026,bowl,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1193,spoon,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1167,plate,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1137,knife,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1172,radio,41,dining_room,41,dining_room,Prepare coffee
+1145.2222222222204,1056,cookingpot,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1117,fryingpan,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,99,trashcan,41,dining_room,inf,,Prepare coffee
+1145.2222222222204,102,mat,41,dining_room,inf,,Prepare coffee
+1145.2222222222204,130,coffe_maker,41,dining_room,122,kitchen_counter,Prepare coffee
+1145.2222222222204,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Prepare coffee
+1145.2222222222204,1023,book,162,bedroom,196,bookshelf,Prepare coffee
+1145.2222222222204,1030,cd,241,home_office,273,tvstand,Prepare coffee
+1145.2222222222204,1031,cd_player,241,home_office,273,tvstand,Prepare coffee
+1145.2222222222204,1034,chessboard,41,dining_room,114,table,Prepare coffee
+1145.2222222222204,1048,coffee,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1049,coffee_cup,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1050,coffee_filter,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1058,cup,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1059,cutting_board,41,dining_room,123,kitchen_counter,Prepare coffee
+1145.2222222222204,1060,deck_of_cards,41,dining_room,114,table,Prepare coffee
+1145.2222222222204,1070,dry_pasta,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1083,food_bread,41,dining_room,119,kitchen_counter,Prepare coffee
+1145.2222222222204,1087,food_cereal,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1088,food_cheese,41,dining_room,1006,fridge,Prepare coffee
+1145.2222222222204,1089,food_chicken,41,dining_room,1006,fridge,Prepare coffee
+1145.2222222222204,1091,food_donut,41,dining_room,123,kitchen_counter,Prepare coffee
+1145.2222222222204,1098,food_jam,41,dining_room,1006,fridge,Prepare coffee
+1145.2222222222204,1102,food_oatmeal,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1106,food_peanut_butter,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1109,food_rice,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1115,food_vegetable,41,dining_room,1006,fridge,Prepare coffee
+1145.2222222222204,1116,fork,41,dining_room,120,sink,Prepare coffee
+1145.2222222222204,1120,ground_coffee,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1145.2222222222204,1123,headset,241,home_office,200,filing_cabinet,Prepare coffee
+1145.2222222222204,1126,instrument_guitar,241,home_office,241,home_office,Prepare coffee
+1145.2222222222204,1132,juice,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1144,milk,41,dining_room,1006,fridge,Prepare coffee
+1145.2222222222204,1148,mug,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1154,notebook,241,home_office,200,filing_cabinet,Prepare coffee
+1145.2222222222204,1156,oil,41,dining_room,119,kitchen_counter,Prepare coffee
+1145.2222222222204,1162,pen,241,home_office,200,filing_cabinet,Prepare coffee
+1145.2222222222204,1176,remote_control,241,home_office,273,tvstand,Prepare coffee
+1145.2222222222204,1196,tea,41,dining_room,117,cupboard,Prepare coffee
+1145.2222222222204,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1145.2222222222204,1207,trashbag,41,dining_room,99,trashcan,Prepare coffee
+1145.2222222222204,1215,wine,41,dining_room,114,table,Prepare coffee
+1145.2222222222204,1216,wine_glass,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Prepare coffee
+1147.444444444443,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1147.444444444443,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1147.444444444443,1174,razor,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1147.444444444443,1026,bowl,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1193,spoon,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1167,plate,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1137,knife,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1172,radio,41,dining_room,41,dining_room,Prepare coffee
+1147.444444444443,1056,cookingpot,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1117,fryingpan,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,99,trashcan,41,dining_room,inf,,Prepare coffee
+1147.444444444443,102,mat,41,dining_room,inf,,Prepare coffee
+1147.444444444443,130,coffe_maker,41,dining_room,122,kitchen_counter,Prepare coffee
+1147.444444444443,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Prepare coffee
+1147.444444444443,1023,book,162,bedroom,196,bookshelf,Prepare coffee
+1147.444444444443,1030,cd,241,home_office,273,tvstand,Prepare coffee
+1147.444444444443,1031,cd_player,241,home_office,273,tvstand,Prepare coffee
+1147.444444444443,1034,chessboard,41,dining_room,114,table,Prepare coffee
+1147.444444444443,1048,coffee,41,dining_room,114,table,Prepare coffee
+1147.444444444443,1049,coffee_cup,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1050,coffee_filter,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1058,cup,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1059,cutting_board,41,dining_room,123,kitchen_counter,Prepare coffee
+1147.444444444443,1060,deck_of_cards,41,dining_room,114,table,Prepare coffee
+1147.444444444443,1070,dry_pasta,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1083,food_bread,41,dining_room,119,kitchen_counter,Prepare coffee
+1147.444444444443,1087,food_cereal,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1088,food_cheese,41,dining_room,1006,fridge,Prepare coffee
+1147.444444444443,1089,food_chicken,41,dining_room,1006,fridge,Prepare coffee
+1147.444444444443,1091,food_donut,41,dining_room,123,kitchen_counter,Prepare coffee
+1147.444444444443,1098,food_jam,41,dining_room,1006,fridge,Prepare coffee
+1147.444444444443,1102,food_oatmeal,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1106,food_peanut_butter,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1109,food_rice,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1115,food_vegetable,41,dining_room,1006,fridge,Prepare coffee
+1147.444444444443,1116,fork,41,dining_room,120,sink,Prepare coffee
+1147.444444444443,1120,ground_coffee,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1147.444444444443,1123,headset,241,home_office,200,filing_cabinet,Prepare coffee
+1147.444444444443,1126,instrument_guitar,241,home_office,241,home_office,Prepare coffee
+1147.444444444443,1132,juice,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1144,milk,41,dining_room,1006,fridge,Prepare coffee
+1147.444444444443,1148,mug,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1154,notebook,241,home_office,200,filing_cabinet,Prepare coffee
+1147.444444444443,1156,oil,41,dining_room,119,kitchen_counter,Prepare coffee
+1147.444444444443,1162,pen,241,home_office,200,filing_cabinet,Prepare coffee
+1147.444444444443,1176,remote_control,241,home_office,273,tvstand,Prepare coffee
+1147.444444444443,1196,tea,41,dining_room,117,cupboard,Prepare coffee
+1147.444444444443,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1147.444444444443,1207,trashbag,41,dining_room,99,trashcan,Prepare coffee
+1147.444444444443,1215,wine,41,dining_room,114,table,Prepare coffee
+1147.444444444443,1216,wine_glass,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Prepare coffee
+1149.111111,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1149.111111,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1149.111111,1174,razor,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1149.111111,1026,bowl,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1193,spoon,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1167,plate,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1137,knife,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1172,radio,41,dining_room,41,dining_room,Prepare coffee
+1149.111111,1056,cookingpot,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1117,fryingpan,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,99,trashcan,41,dining_room,inf,,Prepare coffee
+1149.111111,102,mat,41,dining_room,inf,,Prepare coffee
+1149.111111,130,coffe_maker,41,dining_room,122,kitchen_counter,Prepare coffee
+1149.111111,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Prepare coffee
+1149.111111,1023,book,162,bedroom,196,bookshelf,Prepare coffee
+1149.111111,1030,cd,241,home_office,273,tvstand,Prepare coffee
+1149.111111,1031,cd_player,241,home_office,273,tvstand,Prepare coffee
+1149.111111,1034,chessboard,41,dining_room,114,table,Prepare coffee
+1149.111111,1048,coffee,41,dining_room,114,table,Prepare coffee
+1149.111111,1049,coffee_cup,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1050,coffee_filter,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1058,cup,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1059,cutting_board,41,dining_room,123,kitchen_counter,Prepare coffee
+1149.111111,1060,deck_of_cards,41,dining_room,114,table,Prepare coffee
+1149.111111,1070,dry_pasta,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1083,food_bread,41,dining_room,119,kitchen_counter,Prepare coffee
+1149.111111,1087,food_cereal,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1088,food_cheese,41,dining_room,1006,fridge,Prepare coffee
+1149.111111,1089,food_chicken,41,dining_room,1006,fridge,Prepare coffee
+1149.111111,1091,food_donut,41,dining_room,123,kitchen_counter,Prepare coffee
+1149.111111,1098,food_jam,41,dining_room,1006,fridge,Prepare coffee
+1149.111111,1102,food_oatmeal,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1106,food_peanut_butter,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1109,food_rice,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1115,food_vegetable,41,dining_room,1006,fridge,Prepare coffee
+1149.111111,1116,fork,41,dining_room,120,sink,Prepare coffee
+1149.111111,1120,ground_coffee,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1149.111111,1123,headset,241,home_office,200,filing_cabinet,Prepare coffee
+1149.111111,1126,instrument_guitar,241,home_office,241,home_office,Prepare coffee
+1149.111111,1132,juice,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1144,milk,41,dining_room,1006,fridge,Prepare coffee
+1149.111111,1148,mug,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1154,notebook,241,home_office,200,filing_cabinet,Prepare coffee
+1149.111111,1156,oil,41,dining_room,119,kitchen_counter,Prepare coffee
+1149.111111,1162,pen,241,home_office,200,filing_cabinet,Prepare coffee
+1149.111111,1176,remote_control,241,home_office,273,tvstand,Prepare coffee
+1149.111111,1196,tea,41,dining_room,117,cupboard,Prepare coffee
+1149.111111,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1149.111111,1207,trashbag,41,dining_room,99,trashcan,Prepare coffee
+1149.111111,1215,wine,41,dining_room,114,table,Prepare coffee
+1149.111111,1216,wine_glass,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Prepare coffee
+1150.2222222222213,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1150.2222222222213,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1150.2222222222213,1174,razor,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1150.2222222222213,1026,bowl,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1193,spoon,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1167,plate,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1137,knife,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1172,radio,41,dining_room,41,dining_room,Prepare coffee
+1150.2222222222213,1056,cookingpot,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1117,fryingpan,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,99,trashcan,41,dining_room,inf,,Prepare coffee
+1150.2222222222213,102,mat,41,dining_room,inf,,Prepare coffee
+1150.2222222222213,130,coffe_maker,41,dining_room,122,kitchen_counter,Prepare coffee
+1150.2222222222213,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Prepare coffee
+1150.2222222222213,1023,book,162,bedroom,196,bookshelf,Prepare coffee
+1150.2222222222213,1030,cd,241,home_office,273,tvstand,Prepare coffee
+1150.2222222222213,1031,cd_player,241,home_office,273,tvstand,Prepare coffee
+1150.2222222222213,1034,chessboard,41,dining_room,114,table,Prepare coffee
+1150.2222222222213,1048,coffee,41,dining_room,114,table,Prepare coffee
+1150.2222222222213,1049,coffee_cup,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1050,coffee_filter,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1058,cup,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1059,cutting_board,41,dining_room,123,kitchen_counter,Prepare coffee
+1150.2222222222213,1060,deck_of_cards,41,dining_room,114,table,Prepare coffee
+1150.2222222222213,1070,dry_pasta,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1083,food_bread,41,dining_room,119,kitchen_counter,Prepare coffee
+1150.2222222222213,1087,food_cereal,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1088,food_cheese,41,dining_room,1006,fridge,Prepare coffee
+1150.2222222222213,1089,food_chicken,41,dining_room,1006,fridge,Prepare coffee
+1150.2222222222213,1091,food_donut,41,dining_room,123,kitchen_counter,Prepare coffee
+1150.2222222222213,1098,food_jam,41,dining_room,1006,fridge,Prepare coffee
+1150.2222222222213,1102,food_oatmeal,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1106,food_peanut_butter,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1109,food_rice,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1115,food_vegetable,41,dining_room,1006,fridge,Prepare coffee
+1150.2222222222213,1116,fork,41,dining_room,120,sink,Prepare coffee
+1150.2222222222213,1120,ground_coffee,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1150.2222222222213,1123,headset,241,home_office,200,filing_cabinet,Prepare coffee
+1150.2222222222213,1126,instrument_guitar,241,home_office,241,home_office,Prepare coffee
+1150.2222222222213,1132,juice,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1144,milk,41,dining_room,1006,fridge,Prepare coffee
+1150.2222222222213,1148,mug,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1154,notebook,241,home_office,200,filing_cabinet,Prepare coffee
+1150.2222222222213,1156,oil,41,dining_room,119,kitchen_counter,Prepare coffee
+1150.2222222222213,1162,pen,241,home_office,200,filing_cabinet,Prepare coffee
+1150.2222222222213,1176,remote_control,241,home_office,273,tvstand,Prepare coffee
+1150.2222222222213,1196,tea,41,dining_room,117,cupboard,Prepare coffee
+1150.2222222222213,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1150.2222222222213,1207,trashbag,41,dining_room,99,trashcan,Prepare coffee
+1150.2222222222213,1215,wine,41,dining_room,114,table,Prepare coffee
+1150.2222222222213,1216,wine_glass,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Prepare coffee
+1152.444444444444,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1152.444444444444,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1152.444444444444,1174,razor,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1152.444444444444,1026,bowl,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1193,spoon,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1167,plate,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1137,knife,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1172,radio,41,dining_room,41,dining_room,Prepare coffee
+1152.444444444444,1056,cookingpot,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1117,fryingpan,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,99,trashcan,41,dining_room,inf,,Prepare coffee
+1152.444444444444,102,mat,41,dining_room,inf,,Prepare coffee
+1152.444444444444,130,coffe_maker,41,dining_room,122,kitchen_counter,Prepare coffee
+1152.444444444444,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Prepare coffee
+1152.444444444444,1023,book,162,bedroom,196,bookshelf,Prepare coffee
+1152.444444444444,1030,cd,241,home_office,273,tvstand,Prepare coffee
+1152.444444444444,1031,cd_player,241,home_office,273,tvstand,Prepare coffee
+1152.444444444444,1034,chessboard,41,dining_room,114,table,Prepare coffee
+1152.444444444444,1048,coffee,41,dining_room,114,table,Prepare coffee
+1152.444444444444,1049,coffee_cup,41,dining_room,114,table,Prepare coffee
+1152.444444444444,1050,coffee_filter,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1058,cup,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1059,cutting_board,41,dining_room,123,kitchen_counter,Prepare coffee
+1152.444444444444,1060,deck_of_cards,41,dining_room,114,table,Prepare coffee
+1152.444444444444,1070,dry_pasta,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1083,food_bread,41,dining_room,119,kitchen_counter,Prepare coffee
+1152.444444444444,1087,food_cereal,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1088,food_cheese,41,dining_room,1006,fridge,Prepare coffee
+1152.444444444444,1089,food_chicken,41,dining_room,1006,fridge,Prepare coffee
+1152.444444444444,1091,food_donut,41,dining_room,123,kitchen_counter,Prepare coffee
+1152.444444444444,1098,food_jam,41,dining_room,1006,fridge,Prepare coffee
+1152.444444444444,1102,food_oatmeal,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1106,food_peanut_butter,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1109,food_rice,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1115,food_vegetable,41,dining_room,1006,fridge,Prepare coffee
+1152.444444444444,1116,fork,41,dining_room,120,sink,Prepare coffee
+1152.444444444444,1120,ground_coffee,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1152.444444444444,1123,headset,241,home_office,200,filing_cabinet,Prepare coffee
+1152.444444444444,1126,instrument_guitar,241,home_office,241,home_office,Prepare coffee
+1152.444444444444,1132,juice,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1144,milk,41,dining_room,1006,fridge,Prepare coffee
+1152.444444444444,1148,mug,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1154,notebook,241,home_office,200,filing_cabinet,Prepare coffee
+1152.444444444444,1156,oil,41,dining_room,119,kitchen_counter,Prepare coffee
+1152.444444444444,1162,pen,241,home_office,200,filing_cabinet,Prepare coffee
+1152.444444444444,1176,remote_control,241,home_office,273,tvstand,Prepare coffee
+1152.444444444444,1196,tea,41,dining_room,117,cupboard,Prepare coffee
+1152.444444444444,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Prepare coffee
+1152.444444444444,1207,trashbag,41,dining_room,99,trashcan,Prepare coffee
+1152.444444444444,1215,wine,41,dining_room,114,table,Prepare coffee
+1152.444444444444,1216,wine_glass,41,dining_room,117,cupboard,Prepare coffee
+1152.9999999999995,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Socialize
+1152.9999999999995,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Socialize
+1152.9999999999995,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Socialize
+1152.9999999999995,1174,razor,1,bathroom,17,bathroom_cabinet,Socialize
+1152.9999999999995,1026,bowl,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1193,spoon,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1167,plate,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1137,knife,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1172,radio,41,dining_room,41,dining_room,Socialize
+1152.9999999999995,1056,cookingpot,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1117,fryingpan,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,99,trashcan,41,dining_room,inf,,Socialize
+1152.9999999999995,102,mat,41,dining_room,inf,,Socialize
+1152.9999999999995,130,coffe_maker,41,dining_room,122,kitchen_counter,Socialize
+1152.9999999999995,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Socialize
+1152.9999999999995,1023,book,162,bedroom,196,bookshelf,Socialize
+1152.9999999999995,1030,cd,241,home_office,273,tvstand,Socialize
+1152.9999999999995,1031,cd_player,241,home_office,273,tvstand,Socialize
+1152.9999999999995,1034,chessboard,41,dining_room,114,table,Socialize
+1152.9999999999995,1048,coffee,41,dining_room,114,table,Socialize
+1152.9999999999995,1049,coffee_cup,41,dining_room,114,table,Socialize
+1152.9999999999995,1050,coffee_filter,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1058,cup,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1059,cutting_board,41,dining_room,123,kitchen_counter,Socialize
+1152.9999999999995,1060,deck_of_cards,41,dining_room,114,table,Socialize
+1152.9999999999995,1070,dry_pasta,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1083,food_bread,41,dining_room,119,kitchen_counter,Socialize
+1152.9999999999995,1087,food_cereal,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1088,food_cheese,41,dining_room,1006,fridge,Socialize
+1152.9999999999995,1089,food_chicken,41,dining_room,1006,fridge,Socialize
+1152.9999999999995,1091,food_donut,41,dining_room,123,kitchen_counter,Socialize
+1152.9999999999995,1098,food_jam,41,dining_room,1006,fridge,Socialize
+1152.9999999999995,1102,food_oatmeal,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1106,food_peanut_butter,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1109,food_rice,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1115,food_vegetable,41,dining_room,1006,fridge,Socialize
+1152.9999999999995,1116,fork,41,dining_room,120,sink,Socialize
+1152.9999999999995,1120,ground_coffee,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Socialize
+1152.9999999999995,1123,headset,241,home_office,200,filing_cabinet,Socialize
+1152.9999999999995,1126,instrument_guitar,241,home_office,241,home_office,Socialize
+1152.9999999999995,1132,juice,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1144,milk,41,dining_room,1006,fridge,Socialize
+1152.9999999999995,1148,mug,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1154,notebook,241,home_office,200,filing_cabinet,Socialize
+1152.9999999999995,1156,oil,41,dining_room,119,kitchen_counter,Socialize
+1152.9999999999995,1162,pen,241,home_office,200,filing_cabinet,Socialize
+1152.9999999999995,1176,remote_control,241,home_office,273,tvstand,Socialize
+1152.9999999999995,1196,tea,41,dining_room,117,cupboard,Socialize
+1152.9999999999995,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Socialize
+1152.9999999999995,1207,trashbag,41,dining_room,99,trashcan,Socialize
+1152.9999999999995,1215,wine,41,dining_room,114,table,Socialize
+1152.9999999999995,1216,wine_glass,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Socialize
+1167.9999999999995,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Socialize
+1167.9999999999995,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Socialize
+1167.9999999999995,1174,razor,1,bathroom,17,bathroom_cabinet,Socialize
+1167.9999999999995,1026,bowl,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1193,spoon,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1167,plate,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1137,knife,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1172,radio,41,dining_room,41,dining_room,Socialize
+1167.9999999999995,1056,cookingpot,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1117,fryingpan,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,99,trashcan,41,dining_room,inf,,Socialize
+1167.9999999999995,102,mat,41,dining_room,inf,,Socialize
+1167.9999999999995,130,coffe_maker,41,dining_room,122,kitchen_counter,Socialize
+1167.9999999999995,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Socialize
+1167.9999999999995,1023,book,162,bedroom,196,bookshelf,Socialize
+1167.9999999999995,1030,cd,241,home_office,273,tvstand,Socialize
+1167.9999999999995,1031,cd_player,241,home_office,273,tvstand,Socialize
+1167.9999999999995,1034,chessboard,41,dining_room,114,table,Socialize
+1167.9999999999995,1048,coffee,41,dining_room,114,table,Socialize
+1167.9999999999995,1049,coffee_cup,41,dining_room,114,table,Socialize
+1167.9999999999995,1050,coffee_filter,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1058,cup,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1059,cutting_board,41,dining_room,123,kitchen_counter,Socialize
+1167.9999999999995,1060,deck_of_cards,41,dining_room,114,table,Socialize
+1167.9999999999995,1070,dry_pasta,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1083,food_bread,41,dining_room,119,kitchen_counter,Socialize
+1167.9999999999995,1087,food_cereal,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1088,food_cheese,41,dining_room,1006,fridge,Socialize
+1167.9999999999995,1089,food_chicken,41,dining_room,1006,fridge,Socialize
+1167.9999999999995,1091,food_donut,41,dining_room,123,kitchen_counter,Socialize
+1167.9999999999995,1098,food_jam,41,dining_room,1006,fridge,Socialize
+1167.9999999999995,1102,food_oatmeal,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1106,food_peanut_butter,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1109,food_rice,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1115,food_vegetable,41,dining_room,1006,fridge,Socialize
+1167.9999999999995,1116,fork,41,dining_room,120,sink,Socialize
+1167.9999999999995,1120,ground_coffee,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Socialize
+1167.9999999999995,1123,headset,241,home_office,200,filing_cabinet,Socialize
+1167.9999999999995,1126,instrument_guitar,241,home_office,241,home_office,Socialize
+1167.9999999999995,1132,juice,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1144,milk,41,dining_room,1006,fridge,Socialize
+1167.9999999999995,1148,mug,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1154,notebook,241,home_office,200,filing_cabinet,Socialize
+1167.9999999999995,1156,oil,41,dining_room,119,kitchen_counter,Socialize
+1167.9999999999995,1162,pen,241,home_office,200,filing_cabinet,Socialize
+1167.9999999999995,1176,remote_control,241,home_office,273,tvstand,Socialize
+1167.9999999999995,1196,tea,41,dining_room,117,cupboard,Socialize
+1167.9999999999995,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Socialize
+1167.9999999999995,1207,trashbag,41,dining_room,99,trashcan,Socialize
+1167.9999999999995,1215,wine,41,dining_room,114,table,Socialize
+1167.9999999999995,1216,wine_glass,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Socialize
+1175.4999999999995,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Socialize
+1175.4999999999995,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Socialize
+1175.4999999999995,1174,razor,1,bathroom,17,bathroom_cabinet,Socialize
+1175.4999999999995,1026,bowl,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1193,spoon,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1167,plate,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1137,knife,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1172,radio,41,dining_room,41,dining_room,Socialize
+1175.4999999999995,1056,cookingpot,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1117,fryingpan,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,99,trashcan,41,dining_room,inf,,Socialize
+1175.4999999999995,102,mat,41,dining_room,inf,,Socialize
+1175.4999999999995,130,coffe_maker,41,dining_room,122,kitchen_counter,Socialize
+1175.4999999999995,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Socialize
+1175.4999999999995,1023,book,162,bedroom,196,bookshelf,Socialize
+1175.4999999999995,1030,cd,241,home_office,273,tvstand,Socialize
+1175.4999999999995,1031,cd_player,241,home_office,273,tvstand,Socialize
+1175.4999999999995,1034,chessboard,41,dining_room,114,table,Socialize
+1175.4999999999995,1048,coffee,41,dining_room,114,table,Socialize
+1175.4999999999995,1049,coffee_cup,41,dining_room,114,table,Socialize
+1175.4999999999995,1050,coffee_filter,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1058,cup,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1059,cutting_board,41,dining_room,123,kitchen_counter,Socialize
+1175.4999999999995,1060,deck_of_cards,41,dining_room,114,table,Socialize
+1175.4999999999995,1070,dry_pasta,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1083,food_bread,41,dining_room,119,kitchen_counter,Socialize
+1175.4999999999995,1087,food_cereal,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1088,food_cheese,41,dining_room,1006,fridge,Socialize
+1175.4999999999995,1089,food_chicken,41,dining_room,1006,fridge,Socialize
+1175.4999999999995,1091,food_donut,41,dining_room,123,kitchen_counter,Socialize
+1175.4999999999995,1098,food_jam,41,dining_room,1006,fridge,Socialize
+1175.4999999999995,1102,food_oatmeal,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1106,food_peanut_butter,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1109,food_rice,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1115,food_vegetable,41,dining_room,1006,fridge,Socialize
+1175.4999999999995,1116,fork,41,dining_room,120,sink,Socialize
+1175.4999999999995,1120,ground_coffee,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Socialize
+1175.4999999999995,1123,headset,241,home_office,200,filing_cabinet,Socialize
+1175.4999999999995,1126,instrument_guitar,241,home_office,241,home_office,Socialize
+1175.4999999999995,1132,juice,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1144,milk,41,dining_room,1006,fridge,Socialize
+1175.4999999999995,1148,mug,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1154,notebook,241,home_office,200,filing_cabinet,Socialize
+1175.4999999999995,1156,oil,41,dining_room,119,kitchen_counter,Socialize
+1175.4999999999995,1162,pen,241,home_office,200,filing_cabinet,Socialize
+1175.4999999999995,1176,remote_control,241,home_office,273,tvstand,Socialize
+1175.4999999999995,1196,tea,41,dining_room,117,cupboard,Socialize
+1175.4999999999995,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Socialize
+1175.4999999999995,1207,trashbag,41,dining_room,99,trashcan,Socialize
+1175.4999999999995,1215,wine,41,dining_room,114,table,Socialize
+1175.4999999999995,1216,wine_glass,41,dining_room,117,cupboard,Socialize
+1182.9999999999995,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Cleanup
+1182.9999999999995,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Cleanup
+1182.9999999999995,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Cleanup
+1182.9999999999995,1174,razor,1,bathroom,17,bathroom_cabinet,Cleanup
+1182.9999999999995,1026,bowl,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1193,spoon,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1167,plate,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1137,knife,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1172,radio,41,dining_room,41,dining_room,Cleanup
+1182.9999999999995,1056,cookingpot,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1117,fryingpan,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,99,trashcan,41,dining_room,inf,,Cleanup
+1182.9999999999995,102,mat,41,dining_room,inf,,Cleanup
+1182.9999999999995,130,coffe_maker,41,dining_room,122,kitchen_counter,Cleanup
+1182.9999999999995,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Cleanup
+1182.9999999999995,1023,book,162,bedroom,196,bookshelf,Cleanup
+1182.9999999999995,1030,cd,241,home_office,273,tvstand,Cleanup
+1182.9999999999995,1031,cd_player,241,home_office,273,tvstand,Cleanup
+1182.9999999999995,1034,chessboard,41,dining_room,114,table,Cleanup
+1182.9999999999995,1048,coffee,41,dining_room,114,table,Cleanup
+1182.9999999999995,1049,coffee_cup,41,dining_room,114,table,Cleanup
+1182.9999999999995,1050,coffee_filter,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1058,cup,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1059,cutting_board,41,dining_room,123,kitchen_counter,Cleanup
+1182.9999999999995,1060,deck_of_cards,41,dining_room,114,table,Cleanup
+1182.9999999999995,1070,dry_pasta,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1083,food_bread,41,dining_room,119,kitchen_counter,Cleanup
+1182.9999999999995,1087,food_cereal,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1088,food_cheese,41,dining_room,1006,fridge,Cleanup
+1182.9999999999995,1089,food_chicken,41,dining_room,1006,fridge,Cleanup
+1182.9999999999995,1091,food_donut,41,dining_room,123,kitchen_counter,Cleanup
+1182.9999999999995,1098,food_jam,41,dining_room,1006,fridge,Cleanup
+1182.9999999999995,1102,food_oatmeal,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1106,food_peanut_butter,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1109,food_rice,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1115,food_vegetable,41,dining_room,1006,fridge,Cleanup
+1182.9999999999995,1116,fork,41,dining_room,120,sink,Cleanup
+1182.9999999999995,1120,ground_coffee,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Cleanup
+1182.9999999999995,1123,headset,241,home_office,200,filing_cabinet,Cleanup
+1182.9999999999995,1126,instrument_guitar,241,home_office,241,home_office,Cleanup
+1182.9999999999995,1132,juice,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1144,milk,41,dining_room,1006,fridge,Cleanup
+1182.9999999999995,1148,mug,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1154,notebook,241,home_office,200,filing_cabinet,Cleanup
+1182.9999999999995,1156,oil,41,dining_room,119,kitchen_counter,Cleanup
+1182.9999999999995,1162,pen,241,home_office,200,filing_cabinet,Cleanup
+1182.9999999999995,1176,remote_control,241,home_office,273,tvstand,Cleanup
+1182.9999999999995,1196,tea,41,dining_room,117,cupboard,Cleanup
+1182.9999999999995,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Cleanup
+1182.9999999999995,1207,trashbag,41,dining_room,99,trashcan,Cleanup
+1182.9999999999995,1215,wine,41,dining_room,114,table,Cleanup
+1182.9999999999995,1216,wine_glass,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Cleanup
+1186.333333333333,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Cleanup
+1186.333333333333,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Cleanup
+1186.333333333333,1174,razor,1,bathroom,17,bathroom_cabinet,Cleanup
+1186.333333333333,1026,bowl,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1193,spoon,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1167,plate,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1137,knife,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1172,radio,41,dining_room,41,dining_room,Cleanup
+1186.333333333333,1056,cookingpot,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1117,fryingpan,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,99,trashcan,41,dining_room,inf,,Cleanup
+1186.333333333333,102,mat,41,dining_room,inf,,Cleanup
+1186.333333333333,130,coffe_maker,41,dining_room,122,kitchen_counter,Cleanup
+1186.333333333333,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Cleanup
+1186.333333333333,1023,book,162,bedroom,196,bookshelf,Cleanup
+1186.333333333333,1030,cd,241,home_office,273,tvstand,Cleanup
+1186.333333333333,1031,cd_player,241,home_office,273,tvstand,Cleanup
+1186.333333333333,1034,chessboard,41,dining_room,114,table,Cleanup
+1186.333333333333,1048,coffee,41,dining_room,114,table,Cleanup
+1186.333333333333,1049,coffee_cup,41,dining_room,114,table,Cleanup
+1186.333333333333,1050,coffee_filter,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1058,cup,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1059,cutting_board,41,dining_room,123,kitchen_counter,Cleanup
+1186.333333333333,1060,deck_of_cards,41,dining_room,114,table,Cleanup
+1186.333333333333,1070,dry_pasta,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1083,food_bread,41,dining_room,119,kitchen_counter,Cleanup
+1186.333333333333,1087,food_cereal,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1088,food_cheese,41,dining_room,1006,fridge,Cleanup
+1186.333333333333,1089,food_chicken,41,dining_room,1006,fridge,Cleanup
+1186.333333333333,1091,food_donut,41,dining_room,123,kitchen_counter,Cleanup
+1186.333333333333,1098,food_jam,41,dining_room,1006,fridge,Cleanup
+1186.333333333333,1102,food_oatmeal,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1106,food_peanut_butter,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1109,food_rice,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1115,food_vegetable,41,dining_room,1006,fridge,Cleanup
+1186.333333333333,1116,fork,41,dining_room,120,sink,Cleanup
+1186.333333333333,1120,ground_coffee,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Cleanup
+1186.333333333333,1123,headset,241,home_office,200,filing_cabinet,Cleanup
+1186.333333333333,1126,instrument_guitar,241,home_office,241,home_office,Cleanup
+1186.333333333333,1132,juice,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1144,milk,41,dining_room,1006,fridge,Cleanup
+1186.333333333333,1148,mug,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1154,notebook,241,home_office,200,filing_cabinet,Cleanup
+1186.333333333333,1156,oil,41,dining_room,119,kitchen_counter,Cleanup
+1186.333333333333,1162,pen,241,home_office,200,filing_cabinet,Cleanup
+1186.333333333333,1176,remote_control,241,home_office,273,tvstand,Cleanup
+1186.333333333333,1196,tea,41,dining_room,117,cupboard,Cleanup
+1186.333333333333,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Cleanup
+1186.333333333333,1207,trashbag,41,dining_room,99,trashcan,Cleanup
+1186.333333333333,1215,wine,41,dining_room,114,table,Cleanup
+1186.333333333333,1216,wine_glass,41,dining_room,117,cupboard,Cleanup
+1193.375,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Cleanup
+1193.375,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Cleanup
+1193.375,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Cleanup
+1193.375,1174,razor,1,bathroom,17,bathroom_cabinet,Cleanup
+1193.375,1026,bowl,41,dining_room,117,cupboard,Cleanup
+1193.375,1193,spoon,41,dining_room,117,cupboard,Cleanup
+1193.375,1167,plate,41,dining_room,117,cupboard,Cleanup
+1193.375,1137,knife,41,dining_room,117,cupboard,Cleanup
+1193.375,1172,radio,41,dining_room,41,dining_room,Cleanup
+1193.375,1056,cookingpot,41,dining_room,117,cupboard,Cleanup
+1193.375,1117,fryingpan,41,dining_room,117,cupboard,Cleanup
+1193.375,1049,coffee_cup,41,dining_room,120,sink,Cleanup
+1193.375,99,trashcan,41,dining_room,inf,,Cleanup
+1193.375,102,mat,41,dining_room,inf,,Cleanup
+1193.375,130,coffe_maker,41,dining_room,122,kitchen_counter,Cleanup
+1193.375,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Cleanup
+1193.375,1023,book,162,bedroom,196,bookshelf,Cleanup
+1193.375,1030,cd,241,home_office,273,tvstand,Cleanup
+1193.375,1031,cd_player,241,home_office,273,tvstand,Cleanup
+1193.375,1034,chessboard,41,dining_room,114,table,Cleanup
+1193.375,1048,coffee,41,dining_room,114,table,Cleanup
+1193.375,1050,coffee_filter,41,dining_room,117,cupboard,Cleanup
+1193.375,1058,cup,41,dining_room,117,cupboard,Cleanup
+1193.375,1059,cutting_board,41,dining_room,123,kitchen_counter,Cleanup
+1193.375,1060,deck_of_cards,41,dining_room,114,table,Cleanup
+1193.375,1070,dry_pasta,41,dining_room,117,cupboard,Cleanup
+1193.375,1083,food_bread,41,dining_room,119,kitchen_counter,Cleanup
+1193.375,1087,food_cereal,41,dining_room,117,cupboard,Cleanup
+1193.375,1088,food_cheese,41,dining_room,1006,fridge,Cleanup
+1193.375,1089,food_chicken,41,dining_room,1006,fridge,Cleanup
+1193.375,1091,food_donut,41,dining_room,123,kitchen_counter,Cleanup
+1193.375,1098,food_jam,41,dining_room,1006,fridge,Cleanup
+1193.375,1102,food_oatmeal,41,dining_room,117,cupboard,Cleanup
+1193.375,1106,food_peanut_butter,41,dining_room,117,cupboard,Cleanup
+1193.375,1109,food_rice,41,dining_room,117,cupboard,Cleanup
+1193.375,1115,food_vegetable,41,dining_room,1006,fridge,Cleanup
+1193.375,1116,fork,41,dining_room,120,sink,Cleanup
+1193.375,1120,ground_coffee,41,dining_room,117,cupboard,Cleanup
+1193.375,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Cleanup
+1193.375,1123,headset,241,home_office,200,filing_cabinet,Cleanup
+1193.375,1126,instrument_guitar,241,home_office,241,home_office,Cleanup
+1193.375,1132,juice,41,dining_room,117,cupboard,Cleanup
+1193.375,1144,milk,41,dining_room,1006,fridge,Cleanup
+1193.375,1148,mug,41,dining_room,117,cupboard,Cleanup
+1193.375,1154,notebook,241,home_office,200,filing_cabinet,Cleanup
+1193.375,1156,oil,41,dining_room,119,kitchen_counter,Cleanup
+1193.375,1162,pen,241,home_office,200,filing_cabinet,Cleanup
+1193.375,1176,remote_control,241,home_office,273,tvstand,Cleanup
+1193.375,1196,tea,41,dining_room,117,cupboard,Cleanup
+1193.375,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Cleanup
+1193.375,1207,trashbag,41,dining_room,99,trashcan,Cleanup
+1193.375,1215,wine,41,dining_room,114,table,Cleanup
+1193.375,1216,wine_glass,41,dining_room,117,cupboard,Cleanup
+1194.5,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Cleanup
+1194.5,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Cleanup
+1194.5,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Cleanup
+1194.5,1174,razor,1,bathroom,17,bathroom_cabinet,Cleanup
+1194.5,1026,bowl,41,dining_room,117,cupboard,Cleanup
+1194.5,1193,spoon,41,dining_room,117,cupboard,Cleanup
+1194.5,1167,plate,41,dining_room,117,cupboard,Cleanup
+1194.5,1137,knife,41,dining_room,117,cupboard,Cleanup
+1194.5,1172,radio,41,dining_room,41,dining_room,Cleanup
+1194.5,1056,cookingpot,41,dining_room,117,cupboard,Cleanup
+1194.5,1117,fryingpan,41,dining_room,117,cupboard,Cleanup
+1194.5,1049,coffee_cup,41,dining_room,120,sink,Cleanup
+1194.5,99,trashcan,41,dining_room,inf,,Cleanup
+1194.5,102,mat,41,dining_room,inf,,Cleanup
+1194.5,130,coffe_maker,41,dining_room,122,kitchen_counter,Cleanup
+1194.5,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Cleanup
+1194.5,1023,book,162,bedroom,196,bookshelf,Cleanup
+1194.5,1030,cd,241,home_office,273,tvstand,Cleanup
+1194.5,1031,cd_player,241,home_office,273,tvstand,Cleanup
+1194.5,1034,chessboard,41,dining_room,114,table,Cleanup
+1194.5,1048,coffee,41,dining_room,114,table,Cleanup
+1194.5,1050,coffee_filter,41,dining_room,117,cupboard,Cleanup
+1194.5,1058,cup,41,dining_room,117,cupboard,Cleanup
+1194.5,1059,cutting_board,41,dining_room,123,kitchen_counter,Cleanup
+1194.5,1060,deck_of_cards,41,dining_room,114,table,Cleanup
+1194.5,1070,dry_pasta,41,dining_room,117,cupboard,Cleanup
+1194.5,1083,food_bread,41,dining_room,119,kitchen_counter,Cleanup
+1194.5,1087,food_cereal,41,dining_room,117,cupboard,Cleanup
+1194.5,1088,food_cheese,41,dining_room,1006,fridge,Cleanup
+1194.5,1089,food_chicken,41,dining_room,1006,fridge,Cleanup
+1194.5,1091,food_donut,41,dining_room,123,kitchen_counter,Cleanup
+1194.5,1098,food_jam,41,dining_room,1006,fridge,Cleanup
+1194.5,1102,food_oatmeal,41,dining_room,117,cupboard,Cleanup
+1194.5,1106,food_peanut_butter,41,dining_room,117,cupboard,Cleanup
+1194.5,1109,food_rice,41,dining_room,117,cupboard,Cleanup
+1194.5,1115,food_vegetable,41,dining_room,1006,fridge,Cleanup
+1194.5,1116,fork,41,dining_room,120,sink,Cleanup
+1194.5,1120,ground_coffee,41,dining_room,117,cupboard,Cleanup
+1194.5,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Cleanup
+1194.5,1123,headset,241,home_office,200,filing_cabinet,Cleanup
+1194.5,1126,instrument_guitar,241,home_office,241,home_office,Cleanup
+1194.5,1132,juice,41,dining_room,117,cupboard,Cleanup
+1194.5,1144,milk,41,dining_room,1006,fridge,Cleanup
+1194.5,1148,mug,41,dining_room,117,cupboard,Cleanup
+1194.5,1154,notebook,241,home_office,200,filing_cabinet,Cleanup
+1194.5,1156,oil,41,dining_room,119,kitchen_counter,Cleanup
+1194.5,1162,pen,241,home_office,200,filing_cabinet,Cleanup
+1194.5,1176,remote_control,241,home_office,273,tvstand,Cleanup
+1194.5,1196,tea,41,dining_room,117,cupboard,Cleanup
+1194.5,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Cleanup
+1194.5,1207,trashbag,41,dining_room,99,trashcan,Cleanup
+1194.5,1215,wine,41,dining_room,114,table,Cleanup
+1194.5,1216,wine_glass,41,dining_room,117,cupboard,Cleanup
+1195.625,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Cleanup
+1195.625,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Cleanup
+1195.625,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Cleanup
+1195.625,1174,razor,1,bathroom,17,bathroom_cabinet,Cleanup
+1195.625,1026,bowl,41,dining_room,117,cupboard,Cleanup
+1195.625,1193,spoon,41,dining_room,117,cupboard,Cleanup
+1195.625,1167,plate,41,dining_room,117,cupboard,Cleanup
+1195.625,1137,knife,41,dining_room,117,cupboard,Cleanup
+1195.625,1172,radio,41,dining_room,41,dining_room,Cleanup
+1195.625,1056,cookingpot,41,dining_room,117,cupboard,Cleanup
+1195.625,1117,fryingpan,41,dining_room,117,cupboard,Cleanup
+1195.625,1049,coffee_cup,41,dining_room,120,sink,Cleanup
+1195.625,99,trashcan,41,dining_room,inf,,Cleanup
+1195.625,102,mat,41,dining_room,inf,,Cleanup
+1195.625,130,coffe_maker,41,dining_room,122,kitchen_counter,Cleanup
+1195.625,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Cleanup
+1195.625,1023,book,162,bedroom,196,bookshelf,Cleanup
+1195.625,1030,cd,241,home_office,273,tvstand,Cleanup
+1195.625,1031,cd_player,241,home_office,273,tvstand,Cleanup
+1195.625,1034,chessboard,41,dining_room,114,table,Cleanup
+1195.625,1048,coffee,41,dining_room,117,cupboard,Cleanup
+1195.625,1050,coffee_filter,41,dining_room,117,cupboard,Cleanup
+1195.625,1058,cup,41,dining_room,117,cupboard,Cleanup
+1195.625,1059,cutting_board,41,dining_room,123,kitchen_counter,Cleanup
+1195.625,1060,deck_of_cards,41,dining_room,114,table,Cleanup
+1195.625,1070,dry_pasta,41,dining_room,117,cupboard,Cleanup
+1195.625,1083,food_bread,41,dining_room,119,kitchen_counter,Cleanup
+1195.625,1087,food_cereal,41,dining_room,117,cupboard,Cleanup
+1195.625,1088,food_cheese,41,dining_room,1006,fridge,Cleanup
+1195.625,1089,food_chicken,41,dining_room,1006,fridge,Cleanup
+1195.625,1091,food_donut,41,dining_room,123,kitchen_counter,Cleanup
+1195.625,1098,food_jam,41,dining_room,1006,fridge,Cleanup
+1195.625,1102,food_oatmeal,41,dining_room,117,cupboard,Cleanup
+1195.625,1106,food_peanut_butter,41,dining_room,117,cupboard,Cleanup
+1195.625,1109,food_rice,41,dining_room,117,cupboard,Cleanup
+1195.625,1115,food_vegetable,41,dining_room,1006,fridge,Cleanup
+1195.625,1116,fork,41,dining_room,120,sink,Cleanup
+1195.625,1120,ground_coffee,41,dining_room,117,cupboard,Cleanup
+1195.625,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Cleanup
+1195.625,1123,headset,241,home_office,200,filing_cabinet,Cleanup
+1195.625,1126,instrument_guitar,241,home_office,241,home_office,Cleanup
+1195.625,1132,juice,41,dining_room,117,cupboard,Cleanup
+1195.625,1144,milk,41,dining_room,1006,fridge,Cleanup
+1195.625,1148,mug,41,dining_room,117,cupboard,Cleanup
+1195.625,1154,notebook,241,home_office,200,filing_cabinet,Cleanup
+1195.625,1156,oil,41,dining_room,119,kitchen_counter,Cleanup
+1195.625,1162,pen,241,home_office,200,filing_cabinet,Cleanup
+1195.625,1176,remote_control,241,home_office,273,tvstand,Cleanup
+1195.625,1196,tea,41,dining_room,117,cupboard,Cleanup
+1195.625,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Cleanup
+1195.625,1207,trashbag,41,dining_room,99,trashcan,Cleanup
+1195.625,1215,wine,41,dining_room,114,table,Cleanup
+1195.625,1216,wine_glass,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Cleanup
+1196.5714285714287,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Cleanup
+1196.5714285714287,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Cleanup
+1196.5714285714287,1174,razor,1,bathroom,17,bathroom_cabinet,Cleanup
+1196.5714285714287,1026,bowl,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1193,spoon,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1167,plate,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1137,knife,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1172,radio,41,dining_room,41,dining_room,Cleanup
+1196.5714285714287,1056,cookingpot,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1117,fryingpan,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1049,coffee_cup,41,dining_room,120,sink,Cleanup
+1196.5714285714287,99,trashcan,41,dining_room,inf,,Cleanup
+1196.5714285714287,102,mat,41,dining_room,inf,,Cleanup
+1196.5714285714287,130,coffe_maker,41,dining_room,122,kitchen_counter,Cleanup
+1196.5714285714287,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Cleanup
+1196.5714285714287,1023,book,162,bedroom,196,bookshelf,Cleanup
+1196.5714285714287,1030,cd,241,home_office,273,tvstand,Cleanup
+1196.5714285714287,1031,cd_player,241,home_office,273,tvstand,Cleanup
+1196.5714285714287,1034,chessboard,41,dining_room,114,table,Cleanup
+1196.5714285714287,1048,coffee,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1050,coffee_filter,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1058,cup,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1059,cutting_board,41,dining_room,123,kitchen_counter,Cleanup
+1196.5714285714287,1060,deck_of_cards,41,dining_room,114,table,Cleanup
+1196.5714285714287,1070,dry_pasta,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1083,food_bread,41,dining_room,119,kitchen_counter,Cleanup
+1196.5714285714287,1087,food_cereal,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1088,food_cheese,41,dining_room,1006,fridge,Cleanup
+1196.5714285714287,1089,food_chicken,41,dining_room,1006,fridge,Cleanup
+1196.5714285714287,1091,food_donut,41,dining_room,123,kitchen_counter,Cleanup
+1196.5714285714287,1098,food_jam,41,dining_room,1006,fridge,Cleanup
+1196.5714285714287,1102,food_oatmeal,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1106,food_peanut_butter,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1109,food_rice,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1115,food_vegetable,41,dining_room,1006,fridge,Cleanup
+1196.5714285714287,1116,fork,41,dining_room,120,sink,Cleanup
+1196.5714285714287,1120,ground_coffee,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Cleanup
+1196.5714285714287,1123,headset,241,home_office,200,filing_cabinet,Cleanup
+1196.5714285714287,1126,instrument_guitar,241,home_office,241,home_office,Cleanup
+1196.5714285714287,1132,juice,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1144,milk,41,dining_room,1006,fridge,Cleanup
+1196.5714285714287,1148,mug,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1154,notebook,241,home_office,200,filing_cabinet,Cleanup
+1196.5714285714287,1156,oil,41,dining_room,119,kitchen_counter,Cleanup
+1196.5714285714287,1162,pen,241,home_office,200,filing_cabinet,Cleanup
+1196.5714285714287,1176,remote_control,241,home_office,273,tvstand,Cleanup
+1196.5714285714287,1196,tea,41,dining_room,117,cupboard,Cleanup
+1196.5714285714287,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Cleanup
+1196.5714285714287,1207,trashbag,41,dining_room,99,trashcan,Cleanup
+1196.5714285714287,1215,wine,41,dining_room,114,table,Cleanup
+1196.5714285714287,1216,wine_glass,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Cleanup
+1197.714285714286,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Cleanup
+1197.714285714286,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Cleanup
+1197.714285714286,1174,razor,1,bathroom,17,bathroom_cabinet,Cleanup
+1197.714285714286,1026,bowl,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1193,spoon,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1167,plate,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1137,knife,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1172,radio,41,dining_room,41,dining_room,Cleanup
+1197.714285714286,1056,cookingpot,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1117,fryingpan,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1049,coffee_cup,41,dining_room,120,sink,Cleanup
+1197.714285714286,99,trashcan,41,dining_room,inf,,Cleanup
+1197.714285714286,102,mat,41,dining_room,inf,,Cleanup
+1197.714285714286,130,coffe_maker,41,dining_room,122,kitchen_counter,Cleanup
+1197.714285714286,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Cleanup
+1197.714285714286,1023,book,162,bedroom,196,bookshelf,Cleanup
+1197.714285714286,1030,cd,241,home_office,273,tvstand,Cleanup
+1197.714285714286,1031,cd_player,241,home_office,273,tvstand,Cleanup
+1197.714285714286,1034,chessboard,41,dining_room,114,table,Cleanup
+1197.714285714286,1048,coffee,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1050,coffee_filter,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1058,cup,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1059,cutting_board,41,dining_room,123,kitchen_counter,Cleanup
+1197.714285714286,1060,deck_of_cards,41,dining_room,114,table,Cleanup
+1197.714285714286,1070,dry_pasta,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1083,food_bread,41,dining_room,119,kitchen_counter,Cleanup
+1197.714285714286,1087,food_cereal,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1088,food_cheese,41,dining_room,1006,fridge,Cleanup
+1197.714285714286,1089,food_chicken,41,dining_room,1006,fridge,Cleanup
+1197.714285714286,1091,food_donut,41,dining_room,123,kitchen_counter,Cleanup
+1197.714285714286,1098,food_jam,41,dining_room,1006,fridge,Cleanup
+1197.714285714286,1102,food_oatmeal,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1106,food_peanut_butter,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1109,food_rice,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1115,food_vegetable,41,dining_room,1006,fridge,Cleanup
+1197.714285714286,1116,fork,41,dining_room,120,sink,Cleanup
+1197.714285714286,1120,ground_coffee,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Cleanup
+1197.714285714286,1123,headset,241,home_office,200,filing_cabinet,Cleanup
+1197.714285714286,1126,instrument_guitar,241,home_office,241,home_office,Cleanup
+1197.714285714286,1132,juice,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1144,milk,41,dining_room,1006,fridge,Cleanup
+1197.714285714286,1148,mug,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1154,notebook,241,home_office,200,filing_cabinet,Cleanup
+1197.714285714286,1156,oil,41,dining_room,119,kitchen_counter,Cleanup
+1197.714285714286,1162,pen,241,home_office,200,filing_cabinet,Cleanup
+1197.714285714286,1176,remote_control,241,home_office,273,tvstand,Cleanup
+1197.714285714286,1196,tea,41,dining_room,117,cupboard,Cleanup
+1197.714285714286,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Cleanup
+1197.714285714286,1207,trashbag,41,dining_room,99,trashcan,Cleanup
+1197.714285714286,1215,wine,41,dining_room,114,table,Cleanup
+1197.714285714286,1216,wine_glass,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Cleanup
+1199.428571428572,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Cleanup
+1199.428571428572,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Cleanup
+1199.428571428572,1174,razor,1,bathroom,17,bathroom_cabinet,Cleanup
+1199.428571428572,1026,bowl,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1193,spoon,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1167,plate,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1137,knife,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1172,radio,41,dining_room,41,dining_room,Cleanup
+1199.428571428572,1056,cookingpot,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1117,fryingpan,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1049,coffee_cup,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,99,trashcan,41,dining_room,inf,,Cleanup
+1199.428571428572,102,mat,41,dining_room,inf,,Cleanup
+1199.428571428572,130,coffe_maker,41,dining_room,122,kitchen_counter,Cleanup
+1199.428571428572,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Cleanup
+1199.428571428572,1023,book,162,bedroom,196,bookshelf,Cleanup
+1199.428571428572,1030,cd,241,home_office,273,tvstand,Cleanup
+1199.428571428572,1031,cd_player,241,home_office,273,tvstand,Cleanup
+1199.428571428572,1034,chessboard,41,dining_room,114,table,Cleanup
+1199.428571428572,1048,coffee,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1050,coffee_filter,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1058,cup,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1059,cutting_board,41,dining_room,123,kitchen_counter,Cleanup
+1199.428571428572,1060,deck_of_cards,41,dining_room,114,table,Cleanup
+1199.428571428572,1070,dry_pasta,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1083,food_bread,41,dining_room,119,kitchen_counter,Cleanup
+1199.428571428572,1087,food_cereal,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1088,food_cheese,41,dining_room,1006,fridge,Cleanup
+1199.428571428572,1089,food_chicken,41,dining_room,1006,fridge,Cleanup
+1199.428571428572,1091,food_donut,41,dining_room,123,kitchen_counter,Cleanup
+1199.428571428572,1098,food_jam,41,dining_room,1006,fridge,Cleanup
+1199.428571428572,1102,food_oatmeal,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1106,food_peanut_butter,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1109,food_rice,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1115,food_vegetable,41,dining_room,1006,fridge,Cleanup
+1199.428571428572,1116,fork,41,dining_room,120,sink,Cleanup
+1199.428571428572,1120,ground_coffee,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Cleanup
+1199.428571428572,1123,headset,241,home_office,200,filing_cabinet,Cleanup
+1199.428571428572,1126,instrument_guitar,241,home_office,241,home_office,Cleanup
+1199.428571428572,1132,juice,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1144,milk,41,dining_room,1006,fridge,Cleanup
+1199.428571428572,1148,mug,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1154,notebook,241,home_office,200,filing_cabinet,Cleanup
+1199.428571428572,1156,oil,41,dining_room,119,kitchen_counter,Cleanup
+1199.428571428572,1162,pen,241,home_office,200,filing_cabinet,Cleanup
+1199.428571428572,1176,remote_control,241,home_office,273,tvstand,Cleanup
+1199.428571428572,1196,tea,41,dining_room,117,cupboard,Cleanup
+1199.428571428572,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Cleanup
+1199.428571428572,1207,trashbag,41,dining_room,99,trashcan,Cleanup
+1199.428571428572,1215,wine,41,dining_room,114,table,Cleanup
+1199.428571428572,1216,wine_glass,41,dining_room,117,cupboard,Cleanup
+1200.0000000000007,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Return games
+1200.0000000000007,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Return games
+1200.0000000000007,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Return games
+1200.0000000000007,1174,razor,1,bathroom,17,bathroom_cabinet,Return games
+1200.0000000000007,1026,bowl,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1193,spoon,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1167,plate,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1137,knife,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1172,radio,41,dining_room,41,dining_room,Return games
+1200.0000000000007,1056,cookingpot,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1117,fryingpan,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1049,coffee_cup,41,dining_room,117,cupboard,Return games
+1200.0000000000007,99,trashcan,41,dining_room,inf,,Return games
+1200.0000000000007,102,mat,41,dining_room,inf,,Return games
+1200.0000000000007,130,coffe_maker,41,dining_room,122,kitchen_counter,Return games
+1200.0000000000007,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Return games
+1200.0000000000007,1023,book,162,bedroom,196,bookshelf,Return games
+1200.0000000000007,1030,cd,241,home_office,273,tvstand,Return games
+1200.0000000000007,1031,cd_player,241,home_office,273,tvstand,Return games
+1200.0000000000007,1034,chessboard,41,dining_room,114,table,Return games
+1200.0000000000007,1048,coffee,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1050,coffee_filter,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1058,cup,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1059,cutting_board,41,dining_room,123,kitchen_counter,Return games
+1200.0000000000007,1060,deck_of_cards,41,dining_room,114,table,Return games
+1200.0000000000007,1070,dry_pasta,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1083,food_bread,41,dining_room,119,kitchen_counter,Return games
+1200.0000000000007,1087,food_cereal,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1088,food_cheese,41,dining_room,1006,fridge,Return games
+1200.0000000000007,1089,food_chicken,41,dining_room,1006,fridge,Return games
+1200.0000000000007,1091,food_donut,41,dining_room,123,kitchen_counter,Return games
+1200.0000000000007,1098,food_jam,41,dining_room,1006,fridge,Return games
+1200.0000000000007,1102,food_oatmeal,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1106,food_peanut_butter,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1109,food_rice,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1115,food_vegetable,41,dining_room,1006,fridge,Return games
+1200.0000000000007,1116,fork,41,dining_room,120,sink,Return games
+1200.0000000000007,1120,ground_coffee,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Return games
+1200.0000000000007,1123,headset,241,home_office,200,filing_cabinet,Return games
+1200.0000000000007,1126,instrument_guitar,241,home_office,241,home_office,Return games
+1200.0000000000007,1132,juice,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1144,milk,41,dining_room,1006,fridge,Return games
+1200.0000000000007,1148,mug,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1154,notebook,241,home_office,200,filing_cabinet,Return games
+1200.0000000000007,1156,oil,41,dining_room,119,kitchen_counter,Return games
+1200.0000000000007,1162,pen,241,home_office,200,filing_cabinet,Return games
+1200.0000000000007,1176,remote_control,241,home_office,273,tvstand,Return games
+1200.0000000000007,1196,tea,41,dining_room,117,cupboard,Return games
+1200.0000000000007,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Return games
+1200.0000000000007,1207,trashbag,41,dining_room,99,trashcan,Return games
+1200.0000000000007,1215,wine,41,dining_room,114,table,Return games
+1200.0000000000007,1216,wine_glass,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Return games
+1200.7500000000007,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Return games
+1200.7500000000007,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Return games
+1200.7500000000007,1174,razor,1,bathroom,17,bathroom_cabinet,Return games
+1200.7500000000007,1026,bowl,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1193,spoon,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1167,plate,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1137,knife,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1172,radio,41,dining_room,41,dining_room,Return games
+1200.7500000000007,1056,cookingpot,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1117,fryingpan,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1049,coffee_cup,41,dining_room,117,cupboard,Return games
+1200.7500000000007,99,trashcan,41,dining_room,inf,,Return games
+1200.7500000000007,102,mat,41,dining_room,inf,,Return games
+1200.7500000000007,130,coffe_maker,41,dining_room,122,kitchen_counter,Return games
+1200.7500000000007,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Return games
+1200.7500000000007,1023,book,162,bedroom,196,bookshelf,Return games
+1200.7500000000007,1030,cd,241,home_office,273,tvstand,Return games
+1200.7500000000007,1031,cd_player,241,home_office,273,tvstand,Return games
+1200.7500000000007,1034,chessboard,41,dining_room,114,table,Return games
+1200.7500000000007,1048,coffee,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1050,coffee_filter,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1058,cup,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1059,cutting_board,41,dining_room,123,kitchen_counter,Return games
+1200.7500000000007,1060,deck_of_cards,41,dining_room,114,table,Return games
+1200.7500000000007,1070,dry_pasta,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1083,food_bread,41,dining_room,119,kitchen_counter,Return games
+1200.7500000000007,1087,food_cereal,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1088,food_cheese,41,dining_room,1006,fridge,Return games
+1200.7500000000007,1089,food_chicken,41,dining_room,1006,fridge,Return games
+1200.7500000000007,1091,food_donut,41,dining_room,123,kitchen_counter,Return games
+1200.7500000000007,1098,food_jam,41,dining_room,1006,fridge,Return games
+1200.7500000000007,1102,food_oatmeal,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1106,food_peanut_butter,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1109,food_rice,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1115,food_vegetable,41,dining_room,1006,fridge,Return games
+1200.7500000000007,1116,fork,41,dining_room,120,sink,Return games
+1200.7500000000007,1120,ground_coffee,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Return games
+1200.7500000000007,1123,headset,241,home_office,200,filing_cabinet,Return games
+1200.7500000000007,1126,instrument_guitar,241,home_office,241,home_office,Return games
+1200.7500000000007,1132,juice,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1144,milk,41,dining_room,1006,fridge,Return games
+1200.7500000000007,1148,mug,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1154,notebook,241,home_office,200,filing_cabinet,Return games
+1200.7500000000007,1156,oil,41,dining_room,119,kitchen_counter,Return games
+1200.7500000000007,1162,pen,241,home_office,200,filing_cabinet,Return games
+1200.7500000000007,1176,remote_control,241,home_office,273,tvstand,Return games
+1200.7500000000007,1196,tea,41,dining_room,117,cupboard,Return games
+1200.7500000000007,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Return games
+1200.7500000000007,1207,trashbag,41,dining_room,99,trashcan,Return games
+1200.7500000000007,1215,wine,41,dining_room,114,table,Return games
+1200.7500000000007,1216,wine_glass,41,dining_room,117,cupboard,Return games
+1203.0000000000007,1204,toothbrush,1,bathroom,1012,toothbrush_holder,
+1203.0000000000007,1122,hairdryer,1,bathroom,17,bathroom_cabinet,
+1203.0000000000007,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,
+1203.0000000000007,1174,razor,1,bathroom,17,bathroom_cabinet,
+1203.0000000000007,1026,bowl,41,dining_room,117,cupboard,
+1203.0000000000007,1193,spoon,41,dining_room,117,cupboard,
+1203.0000000000007,1167,plate,41,dining_room,117,cupboard,
+1203.0000000000007,1137,knife,41,dining_room,117,cupboard,
+1203.0000000000007,1172,radio,41,dining_room,41,dining_room,
+1203.0000000000007,1056,cookingpot,41,dining_room,117,cupboard,
+1203.0000000000007,1117,fryingpan,41,dining_room,117,cupboard,
+1203.0000000000007,1049,coffee_cup,41,dining_room,117,cupboard,
+1203.0000000000007,99,trashcan,41,dining_room,inf,,
+1203.0000000000007,102,mat,41,dining_room,inf,,
+1203.0000000000007,130,coffe_maker,41,dining_room,122,kitchen_counter,
+1203.0000000000007,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,
+1203.0000000000007,1023,book,162,bedroom,196,bookshelf,
+1203.0000000000007,1030,cd,241,home_office,273,tvstand,
+1203.0000000000007,1031,cd_player,241,home_office,273,tvstand,
+1203.0000000000007,1034,chessboard,41,dining_room,124,bookshelf,
+1203.0000000000007,1048,coffee,41,dining_room,117,cupboard,
+1203.0000000000007,1050,coffee_filter,41,dining_room,117,cupboard,
+1203.0000000000007,1058,cup,41,dining_room,117,cupboard,
+1203.0000000000007,1059,cutting_board,41,dining_room,123,kitchen_counter,
+1203.0000000000007,1060,deck_of_cards,41,dining_room,124,bookshelf,
+1203.0000000000007,1070,dry_pasta,41,dining_room,117,cupboard,
+1203.0000000000007,1083,food_bread,41,dining_room,119,kitchen_counter,
+1203.0000000000007,1087,food_cereal,41,dining_room,117,cupboard,
+1203.0000000000007,1088,food_cheese,41,dining_room,1006,fridge,
+1203.0000000000007,1089,food_chicken,41,dining_room,1006,fridge,
+1203.0000000000007,1091,food_donut,41,dining_room,123,kitchen_counter,
+1203.0000000000007,1098,food_jam,41,dining_room,1006,fridge,
+1203.0000000000007,1102,food_oatmeal,41,dining_room,117,cupboard,
+1203.0000000000007,1106,food_peanut_butter,41,dining_room,117,cupboard,
+1203.0000000000007,1109,food_rice,41,dining_room,117,cupboard,
+1203.0000000000007,1115,food_vegetable,41,dining_room,1006,fridge,
+1203.0000000000007,1116,fork,41,dining_room,120,sink,
+1203.0000000000007,1120,ground_coffee,41,dining_room,117,cupboard,
+1203.0000000000007,1121,hairbrush,1,bathroom,17,bathroom_cabinet,
+1203.0000000000007,1123,headset,241,home_office,200,filing_cabinet,
+1203.0000000000007,1126,instrument_guitar,241,home_office,241,home_office,
+1203.0000000000007,1132,juice,41,dining_room,117,cupboard,
+1203.0000000000007,1144,milk,41,dining_room,1006,fridge,
+1203.0000000000007,1148,mug,41,dining_room,117,cupboard,
+1203.0000000000007,1154,notebook,241,home_office,200,filing_cabinet,
+1203.0000000000007,1156,oil,41,dining_room,119,kitchen_counter,
+1203.0000000000007,1162,pen,241,home_office,200,filing_cabinet,
+1203.0000000000007,1176,remote_control,241,home_office,273,tvstand,
+1203.0000000000007,1196,tea,41,dining_room,117,cupboard,
+1203.0000000000007,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,
+1203.0000000000007,1207,trashbag,41,dining_room,99,trashcan,
+1203.0000000000007,1215,wine,41,dining_room,114,table,
+1203.0000000000007,1216,wine_glass,41,dining_room,117,cupboard,
+1253.0000000000007,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Play Guitar
+1253.0000000000007,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Play Guitar
+1253.0000000000007,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Play Guitar
+1253.0000000000007,1174,razor,1,bathroom,17,bathroom_cabinet,Play Guitar
+1253.0000000000007,1026,bowl,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1193,spoon,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1167,plate,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1137,knife,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1172,radio,41,dining_room,41,dining_room,Play Guitar
+1253.0000000000007,1056,cookingpot,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1117,fryingpan,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1049,coffee_cup,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,99,trashcan,41,dining_room,inf,,Play Guitar
+1253.0000000000007,102,mat,41,dining_room,inf,,Play Guitar
+1253.0000000000007,130,coffe_maker,41,dining_room,122,kitchen_counter,Play Guitar
+1253.0000000000007,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Play Guitar
+1253.0000000000007,1023,book,162,bedroom,196,bookshelf,Play Guitar
+1253.0000000000007,1030,cd,241,home_office,273,tvstand,Play Guitar
+1253.0000000000007,1031,cd_player,241,home_office,273,tvstand,Play Guitar
+1253.0000000000007,1034,chessboard,41,dining_room,124,bookshelf,Play Guitar
+1253.0000000000007,1048,coffee,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1050,coffee_filter,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1058,cup,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1059,cutting_board,41,dining_room,123,kitchen_counter,Play Guitar
+1253.0000000000007,1060,deck_of_cards,41,dining_room,124,bookshelf,Play Guitar
+1253.0000000000007,1070,dry_pasta,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1083,food_bread,41,dining_room,119,kitchen_counter,Play Guitar
+1253.0000000000007,1087,food_cereal,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1088,food_cheese,41,dining_room,1006,fridge,Play Guitar
+1253.0000000000007,1089,food_chicken,41,dining_room,1006,fridge,Play Guitar
+1253.0000000000007,1091,food_donut,41,dining_room,123,kitchen_counter,Play Guitar
+1253.0000000000007,1098,food_jam,41,dining_room,1006,fridge,Play Guitar
+1253.0000000000007,1102,food_oatmeal,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1106,food_peanut_butter,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1109,food_rice,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1115,food_vegetable,41,dining_room,1006,fridge,Play Guitar
+1253.0000000000007,1116,fork,41,dining_room,120,sink,Play Guitar
+1253.0000000000007,1120,ground_coffee,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Play Guitar
+1253.0000000000007,1123,headset,241,home_office,200,filing_cabinet,Play Guitar
+1253.0000000000007,1126,instrument_guitar,241,home_office,241,home_office,Play Guitar
+1253.0000000000007,1132,juice,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1144,milk,41,dining_room,1006,fridge,Play Guitar
+1253.0000000000007,1148,mug,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1154,notebook,241,home_office,200,filing_cabinet,Play Guitar
+1253.0000000000007,1156,oil,41,dining_room,119,kitchen_counter,Play Guitar
+1253.0000000000007,1162,pen,241,home_office,200,filing_cabinet,Play Guitar
+1253.0000000000007,1176,remote_control,241,home_office,273,tvstand,Play Guitar
+1253.0000000000007,1196,tea,41,dining_room,117,cupboard,Play Guitar
+1253.0000000000007,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Play Guitar
+1253.0000000000007,1207,trashbag,41,dining_room,99,trashcan,Play Guitar
+1253.0000000000007,1215,wine,41,dining_room,114,table,Play Guitar
+1253.0000000000007,1216,wine_glass,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Play Guitar
+1255.0000000000007,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Play Guitar
+1255.0000000000007,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Play Guitar
+1255.0000000000007,1174,razor,1,bathroom,17,bathroom_cabinet,Play Guitar
+1255.0000000000007,1026,bowl,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1193,spoon,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1167,plate,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1137,knife,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1172,radio,41,dining_room,41,dining_room,Play Guitar
+1255.0000000000007,1056,cookingpot,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1117,fryingpan,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1049,coffee_cup,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,99,trashcan,41,dining_room,inf,,Play Guitar
+1255.0000000000007,102,mat,41,dining_room,inf,,Play Guitar
+1255.0000000000007,130,coffe_maker,41,dining_room,122,kitchen_counter,Play Guitar
+1255.0000000000007,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Play Guitar
+1255.0000000000007,1023,book,162,bedroom,196,bookshelf,Play Guitar
+1255.0000000000007,1030,cd,241,home_office,273,tvstand,Play Guitar
+1255.0000000000007,1031,cd_player,241,home_office,273,tvstand,Play Guitar
+1255.0000000000007,1034,chessboard,41,dining_room,124,bookshelf,Play Guitar
+1255.0000000000007,1048,coffee,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1050,coffee_filter,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1058,cup,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1059,cutting_board,41,dining_room,123,kitchen_counter,Play Guitar
+1255.0000000000007,1060,deck_of_cards,41,dining_room,124,bookshelf,Play Guitar
+1255.0000000000007,1070,dry_pasta,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1083,food_bread,41,dining_room,119,kitchen_counter,Play Guitar
+1255.0000000000007,1087,food_cereal,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1088,food_cheese,41,dining_room,1006,fridge,Play Guitar
+1255.0000000000007,1089,food_chicken,41,dining_room,1006,fridge,Play Guitar
+1255.0000000000007,1091,food_donut,41,dining_room,123,kitchen_counter,Play Guitar
+1255.0000000000007,1098,food_jam,41,dining_room,1006,fridge,Play Guitar
+1255.0000000000007,1102,food_oatmeal,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1106,food_peanut_butter,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1109,food_rice,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1115,food_vegetable,41,dining_room,1006,fridge,Play Guitar
+1255.0000000000007,1116,fork,41,dining_room,120,sink,Play Guitar
+1255.0000000000007,1120,ground_coffee,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Play Guitar
+1255.0000000000007,1123,headset,241,home_office,200,filing_cabinet,Play Guitar
+1255.0000000000007,1126,instrument_guitar,241,home_office,241,home_office,Play Guitar
+1255.0000000000007,1132,juice,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1144,milk,41,dining_room,1006,fridge,Play Guitar
+1255.0000000000007,1148,mug,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1154,notebook,241,home_office,200,filing_cabinet,Play Guitar
+1255.0000000000007,1156,oil,41,dining_room,119,kitchen_counter,Play Guitar
+1255.0000000000007,1162,pen,241,home_office,200,filing_cabinet,Play Guitar
+1255.0000000000007,1176,remote_control,241,home_office,273,tvstand,Play Guitar
+1255.0000000000007,1196,tea,41,dining_room,117,cupboard,Play Guitar
+1255.0000000000007,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Play Guitar
+1255.0000000000007,1207,trashbag,41,dining_room,99,trashcan,Play Guitar
+1255.0000000000007,1215,wine,41,dining_room,114,table,Play Guitar
+1255.0000000000007,1216,wine_glass,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Play Guitar
+1273.8000000000009,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Play Guitar
+1273.8000000000009,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Play Guitar
+1273.8000000000009,1174,razor,1,bathroom,17,bathroom_cabinet,Play Guitar
+1273.8000000000009,1026,bowl,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1193,spoon,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1167,plate,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1137,knife,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1172,radio,41,dining_room,41,dining_room,Play Guitar
+1273.8000000000009,1056,cookingpot,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1117,fryingpan,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1049,coffee_cup,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,99,trashcan,41,dining_room,inf,,Play Guitar
+1273.8000000000009,102,mat,41,dining_room,inf,,Play Guitar
+1273.8000000000009,130,coffe_maker,41,dining_room,122,kitchen_counter,Play Guitar
+1273.8000000000009,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Play Guitar
+1273.8000000000009,1023,book,162,bedroom,196,bookshelf,Play Guitar
+1273.8000000000009,1030,cd,241,home_office,273,tvstand,Play Guitar
+1273.8000000000009,1031,cd_player,241,home_office,273,tvstand,Play Guitar
+1273.8000000000009,1034,chessboard,41,dining_room,124,bookshelf,Play Guitar
+1273.8000000000009,1048,coffee,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1050,coffee_filter,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1058,cup,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1059,cutting_board,41,dining_room,123,kitchen_counter,Play Guitar
+1273.8000000000009,1060,deck_of_cards,41,dining_room,124,bookshelf,Play Guitar
+1273.8000000000009,1070,dry_pasta,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1083,food_bread,41,dining_room,119,kitchen_counter,Play Guitar
+1273.8000000000009,1087,food_cereal,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1088,food_cheese,41,dining_room,1006,fridge,Play Guitar
+1273.8000000000009,1089,food_chicken,41,dining_room,1006,fridge,Play Guitar
+1273.8000000000009,1091,food_donut,41,dining_room,123,kitchen_counter,Play Guitar
+1273.8000000000009,1098,food_jam,41,dining_room,1006,fridge,Play Guitar
+1273.8000000000009,1102,food_oatmeal,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1106,food_peanut_butter,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1109,food_rice,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1115,food_vegetable,41,dining_room,1006,fridge,Play Guitar
+1273.8000000000009,1116,fork,41,dining_room,120,sink,Play Guitar
+1273.8000000000009,1120,ground_coffee,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Play Guitar
+1273.8000000000009,1123,headset,241,home_office,200,filing_cabinet,Play Guitar
+1273.8000000000009,1126,instrument_guitar,241,home_office,271,chair,Play Guitar
+1273.8000000000009,1132,juice,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1144,milk,41,dining_room,1006,fridge,Play Guitar
+1273.8000000000009,1148,mug,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1154,notebook,241,home_office,200,filing_cabinet,Play Guitar
+1273.8000000000009,1156,oil,41,dining_room,119,kitchen_counter,Play Guitar
+1273.8000000000009,1162,pen,241,home_office,200,filing_cabinet,Play Guitar
+1273.8000000000009,1176,remote_control,241,home_office,273,tvstand,Play Guitar
+1273.8000000000009,1196,tea,41,dining_room,117,cupboard,Play Guitar
+1273.8000000000009,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Play Guitar
+1273.8000000000009,1207,trashbag,41,dining_room,99,trashcan,Play Guitar
+1273.8000000000009,1215,wine,41,dining_room,114,table,Play Guitar
+1273.8000000000009,1216,wine_glass,41,dining_room,117,cupboard,Play Guitar
+1275.0000000000011,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Sleeping
+1275.0000000000011,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Sleeping
+1275.0000000000011,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Sleeping
+1275.0000000000011,1174,razor,1,bathroom,17,bathroom_cabinet,Sleeping
+1275.0000000000011,1026,bowl,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1193,spoon,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1167,plate,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1137,knife,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1172,radio,41,dining_room,41,dining_room,Sleeping
+1275.0000000000011,1056,cookingpot,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1117,fryingpan,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1049,coffee_cup,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,99,trashcan,41,dining_room,inf,,Sleeping
+1275.0000000000011,102,mat,41,dining_room,inf,,Sleeping
+1275.0000000000011,130,coffe_maker,41,dining_room,122,kitchen_counter,Sleeping
+1275.0000000000011,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Sleeping
+1275.0000000000011,1023,book,162,bedroom,196,bookshelf,Sleeping
+1275.0000000000011,1030,cd,241,home_office,273,tvstand,Sleeping
+1275.0000000000011,1031,cd_player,241,home_office,273,tvstand,Sleeping
+1275.0000000000011,1034,chessboard,41,dining_room,124,bookshelf,Sleeping
+1275.0000000000011,1048,coffee,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1050,coffee_filter,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1058,cup,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1059,cutting_board,41,dining_room,123,kitchen_counter,Sleeping
+1275.0000000000011,1060,deck_of_cards,41,dining_room,124,bookshelf,Sleeping
+1275.0000000000011,1070,dry_pasta,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1083,food_bread,41,dining_room,119,kitchen_counter,Sleeping
+1275.0000000000011,1087,food_cereal,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1088,food_cheese,41,dining_room,1006,fridge,Sleeping
+1275.0000000000011,1089,food_chicken,41,dining_room,1006,fridge,Sleeping
+1275.0000000000011,1091,food_donut,41,dining_room,123,kitchen_counter,Sleeping
+1275.0000000000011,1098,food_jam,41,dining_room,1006,fridge,Sleeping
+1275.0000000000011,1102,food_oatmeal,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1106,food_peanut_butter,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1109,food_rice,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1115,food_vegetable,41,dining_room,1006,fridge,Sleeping
+1275.0000000000011,1116,fork,41,dining_room,120,sink,Sleeping
+1275.0000000000011,1120,ground_coffee,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Sleeping
+1275.0000000000011,1123,headset,241,home_office,200,filing_cabinet,Sleeping
+1275.0000000000011,1126,instrument_guitar,241,home_office,241,home_office,Sleeping
+1275.0000000000011,1132,juice,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1144,milk,41,dining_room,1006,fridge,Sleeping
+1275.0000000000011,1148,mug,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1154,notebook,241,home_office,200,filing_cabinet,Sleeping
+1275.0000000000011,1156,oil,41,dining_room,119,kitchen_counter,Sleeping
+1275.0000000000011,1162,pen,241,home_office,200,filing_cabinet,Sleeping
+1275.0000000000011,1176,remote_control,241,home_office,273,tvstand,Sleeping
+1275.0000000000011,1196,tea,41,dining_room,117,cupboard,Sleeping
+1275.0000000000011,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Sleeping
+1275.0000000000011,1207,trashbag,41,dining_room,99,trashcan,Sleeping
+1275.0000000000011,1215,wine,41,dining_room,114,table,Sleeping
+1275.0000000000011,1216,wine_glass,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1204,toothbrush,1,bathroom,1012,toothbrush_holder,Sleeping
+1515.0000000000011,1122,hairdryer,1,bathroom,17,bathroom_cabinet,Sleeping
+1515.0000000000011,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Sleeping
+1515.0000000000011,1174,razor,1,bathroom,17,bathroom_cabinet,Sleeping
+1515.0000000000011,1026,bowl,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1193,spoon,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1167,plate,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1137,knife,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1172,radio,41,dining_room,41,dining_room,Sleeping
+1515.0000000000011,1056,cookingpot,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1117,fryingpan,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1049,coffee_cup,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,99,trashcan,41,dining_room,inf,,Sleeping
+1515.0000000000011,102,mat,41,dining_room,inf,,Sleeping
+1515.0000000000011,130,coffe_maker,41,dining_room,122,kitchen_counter,Sleeping
+1515.0000000000011,1012,toothbrush_holder,1,bathroom,18,bathroom_counter,Sleeping
+1515.0000000000011,1023,book,162,bedroom,196,bookshelf,Sleeping
+1515.0000000000011,1030,cd,241,home_office,273,tvstand,Sleeping
+1515.0000000000011,1031,cd_player,241,home_office,273,tvstand,Sleeping
+1515.0000000000011,1034,chessboard,41,dining_room,124,bookshelf,Sleeping
+1515.0000000000011,1048,coffee,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1050,coffee_filter,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1058,cup,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1059,cutting_board,41,dining_room,123,kitchen_counter,Sleeping
+1515.0000000000011,1060,deck_of_cards,41,dining_room,124,bookshelf,Sleeping
+1515.0000000000011,1070,dry_pasta,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1083,food_bread,41,dining_room,119,kitchen_counter,Sleeping
+1515.0000000000011,1087,food_cereal,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1088,food_cheese,41,dining_room,1006,fridge,Sleeping
+1515.0000000000011,1089,food_chicken,41,dining_room,1006,fridge,Sleeping
+1515.0000000000011,1091,food_donut,41,dining_room,123,kitchen_counter,Sleeping
+1515.0000000000011,1098,food_jam,41,dining_room,1006,fridge,Sleeping
+1515.0000000000011,1102,food_oatmeal,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1106,food_peanut_butter,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1109,food_rice,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1115,food_vegetable,41,dining_room,1006,fridge,Sleeping
+1515.0000000000011,1116,fork,41,dining_room,120,sink,Sleeping
+1515.0000000000011,1120,ground_coffee,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1121,hairbrush,1,bathroom,17,bathroom_cabinet,Sleeping
+1515.0000000000011,1123,headset,241,home_office,200,filing_cabinet,Sleeping
+1515.0000000000011,1126,instrument_guitar,241,home_office,241,home_office,Sleeping
+1515.0000000000011,1132,juice,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1144,milk,41,dining_room,1006,fridge,Sleeping
+1515.0000000000011,1148,mug,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1154,notebook,241,home_office,200,filing_cabinet,Sleeping
+1515.0000000000011,1156,oil,41,dining_room,119,kitchen_counter,Sleeping
+1515.0000000000011,1162,pen,241,home_office,200,filing_cabinet,Sleeping
+1515.0000000000011,1176,remote_control,241,home_office,273,tvstand,Sleeping
+1515.0000000000011,1196,tea,41,dining_room,117,cupboard,Sleeping
+1515.0000000000011,1203,tooth_paste,1,bathroom,17,bathroom_cabinet,Sleeping
+1515.0000000000011,1207,trashbag,41,dining_room,99,trashcan,Sleeping
+1515.0000000000011,1215,wine,41,dining_room,114,table,Sleeping
+1515.0000000000011,1216,wine_glass,41,dining_room,117,cupboard,Sleeping
