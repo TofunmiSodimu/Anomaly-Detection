@@ -47,10 +47,10 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 360,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Wakeup
 360,1193,spoon,41,dining_room,117,cupboard,Wakeup
 360,1196,tea,41,dining_room,117,cupboard,Wakeup
-360,1203,tooth_paste,18,bathroom_counter,1012,toothbrush_holder,Wakeup
-360,1204,toothbrush,18,bathroom_counter,1012,toothbrush_holder,Wakeup
+360,1203,tooth_paste,1,bathroom,18,bathroom_counter,Wakeup
+360,1204,toothbrush,1,bathroom,18,bathroom_counter,Wakeup
 360,1207,trashbag,41,dining_room,99,trashcan,Wakeup
-360,1215,wine,102,mat,114,table,Wakeup
+360,1215,wine,41,dining_room,102,mat,Wakeup
 360,1216,wine_glass,41,dining_room,117,cupboard,Wakeup
 370.0,99,trashcan,41,dining_room,inf,,Sit to watch TV
 370.0,102,mat,41,dining_room,inf,,Sit to watch TV
@@ -100,7 +100,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 370.0,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Sit to watch TV
 370.0,1193,spoon,41,dining_room,117,cupboard,Sit to watch TV
 370.0,1196,tea,41,dining_room,117,cupboard,Sit to watch TV
-370.0,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Sit to watch TV
+370.0,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Sit to watch TV
 370.0,1204,toothbrush,1,bathroom,18,bathroom_counter,Sit to watch TV
 370.0,1207,trashbag,41,dining_room,99,trashcan,Sit to watch TV
 370.0,1215,wine,41,dining_room,114,table,Sit to watch TV
@@ -153,7 +153,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 381.4,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Sit to watch TV
 381.4,1193,spoon,41,dining_room,117,cupboard,Sit to watch TV
 381.4,1196,tea,41,dining_room,117,cupboard,Sit to watch TV
-381.4,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Sit to watch TV
+381.4,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Sit to watch TV
 381.4,1204,toothbrush,1,bathroom,18,bathroom_counter,Sit to watch TV
 381.4,1207,trashbag,41,dining_room,99,trashcan,Sit to watch TV
 381.4,1215,wine,41,dining_room,114,table,Sit to watch TV
@@ -206,7 +206,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 381.99999999999994,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Watch TV
 381.99999999999994,1193,spoon,41,dining_room,117,cupboard,Watch TV
 381.99999999999994,1196,tea,41,dining_room,117,cupboard,Watch TV
-381.99999999999994,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Watch TV
+381.99999999999994,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Watch TV
 381.99999999999994,1204,toothbrush,1,bathroom,18,bathroom_counter,Watch TV
 381.99999999999994,1207,trashbag,41,dining_room,99,trashcan,Watch TV
 381.99999999999994,1215,wine,41,dining_room,114,table,Watch TV
@@ -259,7 +259,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 396.99999999999994,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Watch TV
 396.99999999999994,1193,spoon,41,dining_room,117,cupboard,Watch TV
 396.99999999999994,1196,tea,41,dining_room,117,cupboard,Watch TV
-396.99999999999994,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Watch TV
+396.99999999999994,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Watch TV
 396.99999999999994,1204,toothbrush,1,bathroom,18,bathroom_counter,Watch TV
 396.99999999999994,1207,trashbag,41,dining_room,99,trashcan,Watch TV
 396.99999999999994,1215,wine,41,dining_room,114,table,Watch TV
@@ -312,7 +312,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 411.99999999999994,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Watch TV
 411.99999999999994,1193,spoon,41,dining_room,117,cupboard,Watch TV
 411.99999999999994,1196,tea,41,dining_room,117,cupboard,Watch TV
-411.99999999999994,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Watch TV
+411.99999999999994,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Watch TV
 411.99999999999994,1204,toothbrush,1,bathroom,18,bathroom_counter,Watch TV
 411.99999999999994,1207,trashbag,41,dining_room,99,trashcan,Watch TV
 411.99999999999994,1215,wine,41,dining_room,114,table,Watch TV
@@ -365,7 +365,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 426.99999999999994,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Putaway TV remote
 426.99999999999994,1193,spoon,41,dining_room,117,cupboard,Putaway TV remote
 426.99999999999994,1196,tea,41,dining_room,117,cupboard,Putaway TV remote
-426.99999999999994,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Putaway TV remote
+426.99999999999994,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Putaway TV remote
 426.99999999999994,1204,toothbrush,1,bathroom,18,bathroom_counter,Putaway TV remote
 426.99999999999994,1207,trashbag,41,dining_room,99,trashcan,Putaway TV remote
 426.99999999999994,1215,wine,41,dining_room,114,table,Putaway TV remote
@@ -418,7 +418,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 427.24999999999994,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Putaway TV remote
 427.24999999999994,1193,spoon,41,dining_room,117,cupboard,Putaway TV remote
 427.24999999999994,1196,tea,41,dining_room,117,cupboard,Putaway TV remote
-427.24999999999994,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Putaway TV remote
+427.24999999999994,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Putaway TV remote
 427.24999999999994,1204,toothbrush,1,bathroom,18,bathroom_counter,Putaway TV remote
 427.24999999999994,1207,trashbag,41,dining_room,99,trashcan,Putaway TV remote
 427.24999999999994,1215,wine,41,dining_room,114,table,Putaway TV remote
@@ -471,7 +471,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 429.99999999999994,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Use bathroom
 429.99999999999994,1193,spoon,41,dining_room,117,cupboard,Use bathroom
 429.99999999999994,1196,tea,41,dining_room,117,cupboard,Use bathroom
-429.99999999999994,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Use bathroom
+429.99999999999994,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Use bathroom
 429.99999999999994,1204,toothbrush,1,bathroom,18,bathroom_counter,Use bathroom
 429.99999999999994,1207,trashbag,41,dining_room,99,trashcan,Use bathroom
 429.99999999999994,1215,wine,41,dining_room,114,table,Use bathroom
@@ -524,7 +524,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 430.33333333333326,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Use bathroom
 430.33333333333326,1193,spoon,41,dining_room,117,cupboard,Use bathroom
 430.33333333333326,1196,tea,41,dining_room,117,cupboard,Use bathroom
-430.33333333333326,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Use bathroom
+430.33333333333326,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Use bathroom
 430.33333333333326,1204,toothbrush,1,bathroom,18,bathroom_counter,Use bathroom
 430.33333333333326,1207,trashbag,41,dining_room,99,trashcan,Use bathroom
 430.33333333333326,1215,wine,41,dining_room,114,table,Use bathroom
@@ -577,7 +577,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 430.6666666666666,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Use bathroom
 430.6666666666666,1193,spoon,41,dining_room,117,cupboard,Use bathroom
 430.6666666666666,1196,tea,41,dining_room,117,cupboard,Use bathroom
-430.6666666666666,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Use bathroom
+430.6666666666666,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Use bathroom
 430.6666666666666,1204,toothbrush,1,bathroom,18,bathroom_counter,Use bathroom
 430.6666666666666,1207,trashbag,41,dining_room,99,trashcan,Use bathroom
 430.6666666666666,1215,wine,41,dining_room,114,table,Use bathroom
@@ -630,7 +630,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 431.57142857142844,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Use bathroom
 431.57142857142844,1193,spoon,41,dining_room,117,cupboard,Use bathroom
 431.57142857142844,1196,tea,41,dining_room,117,cupboard,Use bathroom
-431.57142857142844,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Use bathroom
+431.57142857142844,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Use bathroom
 431.57142857142844,1204,toothbrush,1,bathroom,18,bathroom_counter,Use bathroom
 431.57142857142844,1207,trashbag,41,dining_room,99,trashcan,Use bathroom
 431.57142857142844,1215,wine,41,dining_room,114,table,Use bathroom
@@ -683,7 +683,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 432.142857142857,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Use bathroom
 432.142857142857,1193,spoon,41,dining_room,117,cupboard,Use bathroom
 432.142857142857,1196,tea,41,dining_room,117,cupboard,Use bathroom
-432.142857142857,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Use bathroom
+432.142857142857,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Use bathroom
 432.142857142857,1204,toothbrush,1,bathroom,18,bathroom_counter,Use bathroom
 432.142857142857,1207,trashbag,41,dining_room,99,trashcan,Use bathroom
 432.142857142857,1215,wine,41,dining_room,114,table,Use bathroom
@@ -736,7 +736,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 432.71428571428555,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Use bathroom
 432.71428571428555,1193,spoon,41,dining_room,117,cupboard,Use bathroom
 432.71428571428555,1196,tea,41,dining_room,117,cupboard,Use bathroom
-432.71428571428555,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Use bathroom
+432.71428571428555,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Use bathroom
 432.71428571428555,1204,toothbrush,1,bathroom,18,bathroom_counter,Use bathroom
 432.71428571428555,1207,trashbag,41,dining_room,99,trashcan,Use bathroom
 432.71428571428555,1215,wine,41,dining_room,114,table,Use bathroom
@@ -789,7 +789,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 432.99999999999983,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Brush teeth
 432.99999999999983,1193,spoon,41,dining_room,117,cupboard,Brush teeth
 432.99999999999983,1196,tea,41,dining_room,117,cupboard,Brush teeth
-432.99999999999983,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Brush teeth
+432.99999999999983,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Brush teeth
 432.99999999999983,1204,toothbrush,1,bathroom,18,bathroom_counter,Brush teeth
 432.99999999999983,1207,trashbag,41,dining_room,99,trashcan,Brush teeth
 432.99999999999983,1215,wine,41,dining_room,114,table,Brush teeth
@@ -842,7 +842,7 @@ Time,Obj_ID,Obj_name,Room_ID,Room_name,Surface_ID,Surface_name,Activity
 433.74999999999983,1184,shaving_cream,1,bathroom,17,bathroom_cabinet,Brush teeth
 433.74999999999983,1193,spoon,41,dining_room,117,cupboard,Brush teeth
 433.74999999999983,1196,tea,41,dining_room,117,cupboard,Brush teeth
-433.74999999999983,1203,tooth_paste,1012,toothbrush_holder,18,bathroom_counter,Brush teeth
+433.74999999999983,1203,tooth_paste,1,bathroom,1012,toothbrush_holder,Brush teeth
 433.74999999999983,1204,toothbrush,1,bathroom,18,bathroom_counter,Brush teeth
 433.74999999999983,1207,trashbag,41,dining_room,99,trashcan,Brush teeth
 433.74999999999983,1215,wine,41,dining_room,114,table,Brush teeth
